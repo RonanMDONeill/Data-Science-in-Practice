@@ -1,0 +1,623 @@
+Match ID,Event,Date,Team 1,Team 2,Map,Team 1 Rounds,Team 2 Rounds,Total Rounds,Winner,Team 1 FK,Team 2 FK,Team 1 Clutches,Team 2 Clutches,Team 1 Rating,Team 2 Rating
+82145,IEM Katowice 2019,2019-03-03 18:05:00,ENCE,Astralis,Inferno,4,16,20,Astralis,11,9,1,0,0.61,1.56
+82143,IEM Katowice 2019,2019-03-03 18:05:00,ENCE,Astralis,Train,11,16,27,Astralis,15,11,4,1,0.92,1.17
+82123,IEM Katowice 2019,2019-03-02 19:20:00,MIBR,Astralis,Inferno,7,16,23,Astralis,9,14,0,4,0.9,1.25
+82121,IEM Katowice 2019,2019-03-02 19:20:00,MIBR,Astralis,Overpass,14,16,30,Astralis,16,14,1,2,1.0,1.12
+82120,IEM Katowice 2019,2019-03-02 15:10:00,Natus Vincere,ENCE,Mirage,14,16,30,ENCE,14,16,4,2,1.01,1.1
+82119,IEM Katowice 2019,2019-03-02 15:10:00,Natus Vincere,ENCE,Dust2,16,3,19,Natus Vincere,15,4,1,0,1.65,0.44
+82117,IEM Katowice 2019,2019-03-02 15:10:00,Natus Vincere,ENCE,Train,14,16,30,ENCE,14,16,2,1,0.93,1.19
+82095,IEM Katowice 2019,2019-03-01 18:35:00,Astralis,NiP,Dust2,16,14,30,Astralis,19,11,1,0,1.07,0.97
+82091,IEM Katowice 2019,2019-03-01 18:35:00,Astralis,NiP,Mirage,16,2,18,Astralis,13,5,1,1,1.58,0.49
+82087,IEM Katowice 2019,2019-03-01 15:10:00,MIBR,Renegades,Train,16,12,28,MIBR,15,13,0,0,1.16,0.89
+82082,IEM Katowice 2019,2019-03-01 15:10:00,MIBR,Renegades,Dust2,16,6,22,MIBR,14,8,1,0,1.37,0.7
+82063,IEM Katowice 2019,2019-02-28 18:40:00,Liquid,ENCE,Inferno,16,19,35,ENCE,14,21,4,0,0.96,1.19
+82058,IEM Katowice 2019,2019-02-28 18:40:00,Liquid,ENCE,Mirage,11,16,27,ENCE,8,19,1,0,0.83,1.22
+82050,IEM Katowice 2019,2019-02-28 15:20:00,Natus Vincere,FaZe,Mirage,16,7,23,Natus Vincere,13,10,0,1,1.28,0.74
+82045,IEM Katowice 2019,2019-02-28 15:20:00,Natus Vincere,FaZe,Inferno,16,13,29,Natus Vincere,15,14,1,0,1.07,0.96
+81885,IEM Katowice 2019,2019-02-24 18:30:00,FaZe,Cloud9,Dust2,16,9,25,FaZe,16,9,0,2,1.3,0.8
+81879,IEM Katowice 2019,2019-02-24 18:30:00,FaZe,Cloud9,Cache,16,14,30,FaZe,17,13,1,0,1.12,0.95
+81873,IEM Katowice 2019,2019-02-24 15:05:00,NiP,Vitality,Mirage,16,7,23,NiP,11,11,3,1,1.21,0.92
+81870,IEM Katowice 2019,2019-02-24 15:05:00,NiP,Vitality,Overpass,8,16,24,Vitality,11,13,0,0,0.89,1.21
+81868,IEM Katowice 2019,2019-02-24 15:05:00,NiP,Vitality,Cache,16,7,23,NiP,11,12,2,2,1.33,0.76
+81861,IEM Katowice 2019,2019-02-24 12:05:00,ENCE,AVANGAR,Train,16,7,23,ENCE,14,9,3,0,1.16,0.89
+81851,IEM Katowice 2019,2019-02-24 12:05:00,ENCE,AVANGAR,Mirage,16,12,28,ENCE,15,13,3,2,1.01,1.08
+81836,IEM Katowice 2019,2019-02-23 19:00:00,Cloud9,HellRaisers,Cache,16,12,28,Cloud9,15,13,2,3,1.29,0.85
+81834,IEM Katowice 2019,2019-02-23 19:00:00,Cloud9,HellRaisers,Inferno,16,8,24,Cloud9,15,9,0,1,1.4,0.73
+81833,IEM Katowice 2019,2019-02-23 15:00:00,FaZe,compLexity,Dust2,16,14,30,FaZe,17,13,1,1,1.14,0.91
+81832,IEM Katowice 2019,2019-02-23 15:00:00,FaZe,compLexity,Mirage,16,11,27,FaZe,12,15,1,2,1.06,1.02
+81831,IEM Katowice 2019,2019-02-23 15:00:00,FaZe,compLexity,Cache,8,16,24,compLexity,10,14,0,0,0.87,1.2
+81830,IEM Katowice 2019,2019-02-23 12:00:00,ENCE,G2,Mirage,16,10,26,ENCE,17,9,3,2,1.33,0.76
+81828,IEM Katowice 2019,2019-02-23 12:00:00,ENCE,G2,Dust2,19,17,36,ENCE,19,17,4,0,1.03,1.07
+81807,IEM Katowice 2019,2019-02-22 18:30:00,MIBR,NiP,Inferno,16,14,30,MIBR,15,15,1,1,1.1,0.99
+81804,IEM Katowice 2019,2019-02-22 18:30:00,MIBR,NiP,Train,16,6,22,MIBR,13,9,0,0,1.29,0.84
+81801,IEM Katowice 2019,2019-02-22 15:40:00,Natus Vincere,AVANGAR,Train,16,11,27,Natus Vincere,11,16,0,0,1.11,0.91
+81796,IEM Katowice 2019,2019-02-22 15:40:00,Natus Vincere,AVANGAR,Dust2,16,6,22,Natus Vincere,15,7,0,1,1.36,0.67
+81795,IEM Katowice 2019,2019-02-22 12:00:00,Renegades,Vitality,Inferno,16,12,28,Renegades,16,11,5,3,1.19,0.93
+81790,IEM Katowice 2019,2019-02-22 12:00:00,Renegades,Vitality,Cache,11,16,27,Vitality,9,18,0,1,0.96,1.18
+81787,IEM Katowice 2019,2019-02-22 12:00:00,Renegades,Vitality,Dust2,16,5,21,Renegades,14,7,0,0,1.52,0.53
+81761,IEM Katowice 2019,2019-02-21 18:30:00,Liquid,Natus Vincere,Dust2,16,9,25,Liquid,10,15,2,1,1.27,0.85
+81753,IEM Katowice 2019,2019-02-21 18:30:00,Liquid,Natus Vincere,Mirage,16,14,30,Liquid,12,18,2,2,1.08,1.0
+81765,IEM Katowice 2019,2019-02-21 18:05:00,NRG,compLexity,Cache,16,19,35,compLexity,18,17,2,5,0.95,1.14
+81755,IEM Katowice 2019,2019-02-21 18:05:00,NRG,compLexity,Nuke,19,22,41,compLexity,25,16,4,3,1.06,1.04
+81741,IEM Katowice 2019,2019-02-21 14:55:00,Astralis,Renegades,Inferno,16,2,18,Astralis,14,4,0,0,1.58,0.46
+81734,IEM Katowice 2019,2019-02-21 14:55:00,Astralis,Renegades,Nuke,16,9,25,Astralis,12,13,1,1,1.17,0.83
+81727,IEM Katowice 2019,2019-02-21 14:55:00,Astralis,Renegades,Mirage,17,19,36,Renegades,20,16,0,1,0.97,1.07
+81737,IEM Katowice 2019,2019-02-21 14:35:00,ENCE,BIG,Overpass,16,10,26,ENCE,13,13,2,2,1.21,0.89
+81729,IEM Katowice 2019,2019-02-21 14:35:00,ENCE,BIG,Train,16,14,30,ENCE,13,17,2,2,1.04,1.05
+81724,IEM Katowice 2019,2019-02-21 14:35:00,ENCE,BIG,Dust2,5,16,21,BIG,8,13,0,0,0.74,1.38
+81722,IEM Katowice 2019,2019-02-21 13:25:00,Vitality,Cloud9,Mirage,16,14,30,Vitality,17,13,1,3,1.06,1.05
+81721,IEM Katowice 2019,2019-02-21 13:25:00,NiP,HellRaisers,Overpass,16,5,21,NiP,14,7,2,1,1.36,0.69
+81720,IEM Katowice 2019,2019-02-21 12:00:00,FaZe,AVANGAR,Mirage,13,16,29,AVANGAR,10,18,0,2,0.93,1.1
+81719,IEM Katowice 2019,2019-02-21 12:00:00,MIBR,G2,Inferno,16,12,28,MIBR,15,13,2,3,1.13,1.0
+81702,IEM Katowice 2019,2019-02-20 23:00:00,Liquid,NiP,Overpass,16,13,29,Liquid,14,15,3,1,1.17,0.97
+81695,IEM Katowice 2019,2019-02-20 21:50:00,Astralis,Cloud9,Train,16,0,16,Astralis,11,5,1,0,1.66,0.38
+81696,IEM Katowice 2019,2019-02-20 20:55:00,Natus Vincere,Vitality,Mirage,25,22,47,Natus Vincere,23,24,1,2,1.11,0.97
+81690,IEM Katowice 2019,2019-02-20 20:25:00,FaZe,Renegades,Inferno,14,16,30,Renegades,15,15,0,3,1.03,1.07
+81685,IEM Katowice 2019,2019-02-20 19:25:00,NRG,AVANGAR,Overpass,13,16,29,AVANGAR,16,13,0,2,1.0,1.08
+81684,IEM Katowice 2019,2019-02-20 19:10:00,MIBR,compLexity,Mirage,16,9,25,MIBR,15,10,1,1,1.18,0.88
+81680,IEM Katowice 2019,2019-02-20 18:05:00,ENCE,HellRaisers,Dust2,12,16,28,HellRaisers,15,13,0,0,0.94,1.22
+81679,IEM Katowice 2019,2019-02-20 17:55:00,BIG,G2,Mirage,13,16,29,G2,12,16,0,2,1.04,1.02
+81671,IEM Katowice 2019,2019-02-20 16:20:00,MIBR,Cloud9,Inferno,3,16,19,Cloud9,6,13,1,2,0.62,1.5
+81670,IEM Katowice 2019,2019-02-20 15:55:00,Astralis,compLexity,Nuke,16,6,22,Astralis,10,12,3,0,1.28,0.85
+81669,IEM Katowice 2019,2019-02-20 14:45:00,NRG,NiP,Nuke,14,16,30,NiP,15,15,2,5,0.98,1.1
+81667,IEM Katowice 2019,2019-02-20 14:25:00,Liquid,AVANGAR,Overpass,16,12,28,Liquid,11,16,1,2,1.18,0.92
+81665,IEM Katowice 2019,2019-02-20 13:30:00,Natus Vincere,G2,Inferno,16,7,23,Natus Vincere,15,8,0,3,1.4,0.74
+81663,IEM Katowice 2019,2019-02-20 13:20:00,FaZe,HellRaisers,Train,16,4,20,FaZe,8,12,0,0,1.33,0.72
+81662,IEM Katowice 2019,2019-02-20 12:00:00,ENCE,Renegades,Inferno,13,16,29,Renegades,18,11,0,3,1.0,1.07
+81661,IEM Katowice 2019,2019-02-20 12:00:00,BIG,Vitality,Mirage,11,16,27,Vitality,12,15,6,2,0.84,1.36
+74129,FACEIT Major 2018,2018-09-23 17:20:00,Natus Vincere,Astralis,Overpass,9,16,25,Astralis,11,14,0,3,0.89,1.25
+74128,FACEIT Major 2018,2018-09-23 17:20:00,Natus Vincere,Astralis,Nuke,6,16,22,Astralis,8,14,1,0,0.81,1.3
+74061,FACEIT Major 2018,2018-09-22 19:05:00,Liquid,Astralis,Mirage,7,16,23,Astralis,9,14,0,2,0.82,1.23
+74060,FACEIT Major 2018,2018-09-22 19:05:00,Liquid,Astralis,Nuke,8,16,24,Astralis,5,19,5,2,0.79,1.36
+74059,FACEIT Major 2018,2018-09-22 15:25:00,MIBR,Natus Vincere,Dust2,5,16,21,Natus Vincere,7,14,0,0,0.72,1.4
+74058,FACEIT Major 2018,2018-09-22 15:25:00,MIBR,Natus Vincere,Overpass,10,16,26,Natus Vincere,13,12,3,2,0.88,1.24
+74055,FACEIT Major 2018,2018-09-21 19:35:00,Astralis,FaZe,Inferno,16,12,28,Astralis,13,15,1,2,1.13,0.96
+74053,FACEIT Major 2018,2018-09-21 19:35:00,Astralis,FaZe,Mirage,16,14,30,Astralis,16,14,2,2,1.05,1.02
+74051,FACEIT Major 2018,2018-09-21 15:20:00,Liquid,HellRaisers,Cache,16,8,24,Liquid,11,13,2,1,1.32,0.8
+74049,FACEIT Major 2018,2018-09-21 15:20:00,Liquid,HellRaisers,Dust2,10,16,26,HellRaisers,13,13,3,3,0.93,1.2
+74048,FACEIT Major 2018,2018-09-21 15:20:00,Liquid,HellRaisers,Mirage,16,10,26,Liquid,12,13,3,0,1.25,0.87
+74026,FACEIT Major 2018,2018-09-20 17:05:00,compLexity,MIBR,Inferno,12,16,28,MIBR,8,20,2,1,0.78,1.27
+74021,FACEIT Major 2018,2018-09-20 17:05:00,compLexity,MIBR,Train,4,16,20,MIBR,3,17,1,2,0.52,1.63
+74019,FACEIT Major 2018,2018-09-20 14:30:00,BIG,Natus Vincere,Nuke,6,16,22,Natus Vincere,10,12,0,2,0.85,1.26
+74002,FACEIT Major 2018,2018-09-20 14:30:00,BIG,Natus Vincere,Dust2,2,16,18,Natus Vincere,6,12,0,2,0.5,1.58
+73833,FACEIT Major 2018,2018-09-16 16:45:00,NiP,MIBR,Train,11,16,27,MIBR,11,16,2,2,1.01,1.05
+73828,FACEIT Major 2018,2018-09-16 16:45:00,NiP,MIBR,Mirage,16,10,26,NiP,12,14,0,1,1.15,0.95
+73816,FACEIT Major 2018,2018-09-16 16:45:00,NiP,MIBR,Cache,15,19,34,MIBR,17,17,2,1,0.92,1.19
+73812,FACEIT Major 2018,2018-09-16 13:50:00,G2,FaZe,Dust2,22,25,47,FaZe,24,23,2,3,0.97,1.06
+73811,FACEIT Major 2018,2018-09-16 13:50:00,G2,FaZe,Mirage,2,16,18,FaZe,7,11,0,2,0.6,1.52
+73807,FACEIT Major 2018,2018-09-16 10:00:00,fnatic,HellRaisers,Cache,2,16,18,HellRaisers,7,11,0,1,0.54,1.54
+73803,FACEIT Major 2018,2018-09-16 10:00:00,fnatic,HellRaisers,Dust2,9,16,25,HellRaisers,12,13,2,2,0.92,1.22
+73800,FACEIT Major 2018,2018-09-16 10:00:00,fnatic,HellRaisers,Mirage,19,17,36,fnatic,20,16,3,5,1.1,1.08
+73786,FACEIT Major 2018,2018-09-15 17:45:00,Astralis,MIBR,Dust2,16,0,16,Astralis,12,4,2,0,1.71,0.5
+73779,FACEIT Major 2018,2018-09-15 15:35:00,G2,Cloud9,Inferno,22,19,41,G2,19,22,3,1,1.1,1.0
+73778,FACEIT Major 2018,2018-09-15 14:10:00,Natus Vincere,fnatic,Mirage,16,9,25,Natus Vincere,17,8,0,0,1.33,0.8
+73775,FACEIT Major 2018,2018-09-15 12:55:00,TYLOO,FaZe,Mirage,4,16,20,FaZe,8,12,1,3,0.73,1.5
+73771,FACEIT Major 2018,2018-09-15 11:30:00,Vega Squadron,NiP,Train,11,16,27,NiP,9,18,1,2,0.93,1.09
+73767,FACEIT Major 2018,2018-09-15 10:05:00,BIG,HellRaisers,Train,16,9,25,BIG,16,9,2,1,1.35,0.75
+73743,FACEIT Major 2018,2018-09-14 19:55:00,FaZe,mousesports,Mirage,16,8,24,FaZe,9,15,1,1,1.23,0.89
+73739,FACEIT Major 2018,2018-09-14 17:55:00,Astralis,Liquid,Inferno,15,19,34,Liquid,16,18,4,1,0.97,1.15
+73738,FACEIT Major 2018,2018-09-14 16:30:00,G2,MIBR,Inferno,4,16,20,MIBR,8,12,1,0,0.58,1.46
+73737,FACEIT Major 2018,2018-09-14 15:15:00,Natus Vincere,NiP,Train,16,6,22,Natus Vincere,14,8,1,2,1.43,0.65
+73736,FACEIT Major 2018,2018-09-14 13:55:00,compLexity,BIG,Nuke,16,8,24,compLexity,13,11,1,1,1.34,0.76
+73734,FACEIT Major 2018,2018-09-14 12:05:00,Winstrike,Cloud9,Inferno,16,19,35,Cloud9,18,17,3,3,1.07,1.08
+73733,FACEIT Major 2018,2018-09-14 10:40:00,TYLOO,HellRaisers,Overpass,10,16,26,HellRaisers,15,10,2,2,0.99,1.12
+73732,FACEIT Major 2018,2018-09-14 09:00:00,Vega Squadron,fnatic,Inferno,14,16,30,fnatic,15,15,2,2,0.97,1.15
+73729,FACEIT Major 2018,2018-09-13 19:25:00,mousesports,MIBR,Dust2,6,16,22,MIBR,8,14,0,0,0.77,1.25
+73726,FACEIT Major 2018,2018-09-13 17:50:00,Natus Vincere,FaZe,Overpass,16,12,28,Natus Vincere,15,13,2,1,1.12,1.0
+73725,FACEIT Major 2018,2018-09-13 16:25:00,NiP,Liquid,Mirage,10,16,26,Liquid,12,14,1,1,0.87,1.19
+73724,FACEIT Major 2018,2018-09-13 14:45:00,compLexity,G2,Cache,16,11,27,compLexity,15,12,2,3,1.24,0.96
+73719,FACEIT Major 2018,2018-09-13 12:55:00,Cloud9,HellRaisers,Overpass,16,19,35,HellRaisers,24,11,2,3,1.08,1.09
+73717,FACEIT Major 2018,2018-09-13 11:45:00,Vega Squadron,Astralis,Inferno,4,16,20,Astralis,1,19,1,1,0.49,1.58
+73713,FACEIT Major 2018,2018-09-13 10:15:00,Winstrike,fnatic,Inferno,7,16,23,fnatic,10,13,2,1,0.94,1.28
+73711,FACEIT Major 2018,2018-09-13 09:00:00,BIG,TYLOO,Train,16,7,23,BIG,14,9,1,3,1.41,0.7
+73703,FACEIT Major 2018,2018-09-12 19:30:00,Cloud9,Vega Squadron,Mirage,4,16,20,Vega Squadron,10,10,1,1,0.78,1.31
+73698,FACEIT Major 2018,2018-09-12 17:50:00,Natus Vincere,Astralis,Inferno,14,16,30,Astralis,13,17,2,2,1.01,1.1
+73695,FACEIT Major 2018,2018-09-12 16:20:00,mousesports,NiP,Mirage,12,16,28,NiP,15,13,0,2,1.02,1.06
+73694,FACEIT Major 2018,2018-09-12 14:45:00,MIBR,TYLOO,Inferno,13,16,29,TYLOO,18,11,2,2,1.12,1.0
+73691,FACEIT Major 2018,2018-09-12 13:30:00,fnatic,compLexity,Inferno,4,16,20,compLexity,8,12,1,3,0.7,1.48
+73690,FACEIT Major 2018,2018-09-12 12:15:00,FaZe,BIG,Dust2,5,16,21,BIG,8,13,2,2,0.78,1.46
+73689,FACEIT Major 2018,2018-09-12 11:05:00,Winstrike,Liquid,Mirage,7,16,23,Liquid,8,15,2,0,0.64,1.44
+73683,FACEIT Major 2018,2018-09-12 09:05:00,G2,HellRaisers,Dust2,22,20,42,G2,24,18,0,4,1.18,0.93
+60219,ELEAGUE Major 2018,2018-01-28 19:15:00,FaZe,Cloud9,Inferno,19,22,41,Cloud9,18,23,4,2,0.91,1.19
+60218,ELEAGUE Major 2018,2018-01-28 19:15:00,FaZe,Cloud9,Overpass,10,16,26,Cloud9,12,14,2,2,0.9,1.22
+60217,ELEAGUE Major 2018,2018-01-28 19:15:00,FaZe,Cloud9,Mirage,16,14,30,FaZe,16,14,1,0,1.04,1.03
+60198,ELEAGUE Major 2018,2018-01-27 23:25:00,Cloud9,SK,Inferno,16,9,25,Cloud9,13,12,1,1,1.26,0.87
+60197,ELEAGUE Major 2018,2018-01-27 23:25:00,Cloud9,SK,Cobblestone,8,16,24,SK,12,12,1,3,0.86,1.28
+60196,ELEAGUE Major 2018,2018-01-27 23:25:00,Cloud9,SK,Mirage,16,3,19,Cloud9,8,11,2,0,1.43,0.67
+60195,ELEAGUE Major 2018,2018-01-27 20:55:00,FaZe,Natus Vincere,Mirage,16,7,23,FaZe,16,7,5,2,1.38,0.79
+60194,ELEAGUE Major 2018,2018-01-27 20:55:00,FaZe,Natus Vincere,Inferno,16,9,25,FaZe,15,10,2,3,1.32,0.87
+60189,ELEAGUE Major 2018,2018-01-27 15:10:00,SK,fnatic,Mirage,16,12,28,SK,17,11,0,2,1.1,0.96
+60188,ELEAGUE Major 2018,2018-01-27 15:10:00,SK,fnatic,Overpass,16,14,30,SK,16,14,3,2,1.07,1.04
+60183,ELEAGUE Major 2018,2018-01-27 15:10:00,SK,fnatic,Inferno,19,22,41,fnatic,22,19,3,4,0.99,1.17
+60174,ELEAGUE Major 2018,2018-01-26 21:55:00,G2,Cloud9,Overpass,7,16,23,Cloud9,10,13,0,3,0.9,1.24
+60173,ELEAGUE Major 2018,2018-01-26 21:55:00,G2,Cloud9,Mirage,8,16,24,Cloud9,9,15,1,1,0.81,1.31
+60172,ELEAGUE Major 2018,2018-01-26 19:45:00,Natus Vincere,Quantum Bellator Fire,Inferno,16,7,23,Natus Vincere,14,9,0,0,1.37,0.7
+60171,ELEAGUE Major 2018,2018-01-26 19:45:00,Natus Vincere,Quantum Bellator Fire,Mirage,16,4,20,Natus Vincere,14,6,1,0,1.48,0.7
+60170,ELEAGUE Major 2018,2018-01-26 15:00:00,FaZe,mousesports,Cache,16,9,25,FaZe,17,8,0,1,1.36,0.7
+60167,ELEAGUE Major 2018,2018-01-26 15:00:00,FaZe,mousesports,Nuke,19,16,35,FaZe,16,19,2,2,1.02,1.08
+60032,ELEAGUE Major 2018,2018-01-23 01:10:00,mousesports,Space Soldiers,Mirage,16,13,29,mousesports,16,13,1,2,1.19,0.94
+60031,ELEAGUE Major 2018,2018-01-23 00:15:00,Vega Squadron,Cloud9,Mirage,4,16,20,Cloud9,8,12,0,1,0.64,1.45
+60026,ELEAGUE Major 2018,2018-01-22 23:25:00,fnatic,Gambit,Mirage,16,2,18,fnatic,14,3,2,0,1.64,0.57
+60025,ELEAGUE Major 2018,2018-01-22 22:00:00,fnatic,Natus Vincere,Inferno,7,16,23,Natus Vincere,9,14,2,1,0.78,1.35
+60023,ELEAGUE Major 2018,2018-01-22 20:40:00,Gambit,SK,Overpass,10,16,26,SK,10,16,0,1,0.89,1.14
+60021,ELEAGUE Major 2018,2018-01-22 19:20:00,Liquid,Vega Squadron,Inferno,12,16,28,Vega Squadron,9,19,0,3,0.97,1.15
+60017,ELEAGUE Major 2018,2018-01-22 17:40:00,Astralis,Cloud9,Train,6,16,22,Cloud9,10,12,1,2,0.79,1.29
+60016,ELEAGUE Major 2018,2018-01-22 16:20:00,Quantum Bellator Fire,mousesports,Train,16,14,30,Quantum Bellator Fire,13,17,0,0,1.06,0.99
+60015,ELEAGUE Major 2018,2018-01-22 15:15:00,Space Soldiers,BIG,Cobblestone,16,8,24,Space Soldiers,13,11,3,1,1.2,0.94
+60003,ELEAGUE Major 2018,2018-01-21 23:40:00,Space Soldiers,Gambit,Train,13,16,29,Gambit,12,17,1,2,1.04,1.01
+60001,ELEAGUE Major 2018,2018-01-21 22:35:00,Virtus.pro,Cloud9,Mirage,7,16,23,Cloud9,8,15,0,1,0.74,1.37
+60000,ELEAGUE Major 2018,2018-01-21 21:10:00,SK,FaZe,Cache,12,16,28,FaZe,13,15,2,0,0.9,1.15
+59999,ELEAGUE Major 2018,2018-01-21 19:45:00,BIG,North,Cobblestone,16,12,28,BIG,20,8,2,0,1.17,0.95
+59997,ELEAGUE Major 2018,2018-01-21 18:35:00,fnatic,Astralis,Mirage,16,8,24,fnatic,16,8,2,1,1.21,0.85
+59993,ELEAGUE Major 2018,2018-01-21 17:30:00,Quantum Bellator Fire,G2,Cache,4,16,20,G2,8,12,0,5,0.78,1.39
+59985,ELEAGUE Major 2018,2018-01-21 16:10:00,Liquid,Natus Vincere,Overpass,9,16,25,Natus Vincere,5,20,1,4,0.79,1.33
+59977,ELEAGUE Major 2018,2018-01-21 15:10:00,mousesports,Vega Squadron,Mirage,16,3,19,mousesports,13,6,0,1,1.56,0.52
+59970,ELEAGUE Major 2018,2018-01-20 23:45:00,Astralis,North,Train,16,14,30,Astralis,18,12,1,1,1.25,0.84
+59969,ELEAGUE Major 2018,2018-01-20 22:45:00,BIG,Natus Vincere,Inferno,1,16,17,Natus Vincere,5,12,0,3,0.52,1.63
+59968,ELEAGUE Major 2018,2018-01-20 21:40:00,Virtus.pro,fnatic,Inferno,6,16,22,fnatic,10,12,1,0,0.65,1.51
+59967,ELEAGUE Major 2018,2018-01-20 20:15:00,SK,mousesports,Mirage,16,12,28,SK,13,15,3,2,1.14,0.95
+59966,ELEAGUE Major 2018,2018-01-20 19:10:00,G2,Liquid,Inferno,16,8,24,G2,16,8,2,4,1.32,0.82
+59965,ELEAGUE Major 2018,2018-01-20 18:20:00,FaZe,Vega Squadron,Train,16,3,19,FaZe,16,3,3,1,1.59,0.5
+59964,ELEAGUE Major 2018,2018-01-20 16:50:00,Space Soldiers,Cloud9,Cobblestone,16,13,29,Space Soldiers,17,11,4,1,1.12,1.05
+59958,ELEAGUE Major 2018,2018-01-20 15:15:00,Quantum Bellator Fire,Gambit,Inferno,19,16,35,Quantum Bellator Fire,21,14,5,1,1.08,1.0
+59936,ELEAGUE Major 2018,2018-01-19 23:20:00,SK,Space Soldiers,Mirage,16,13,29,SK,19,10,2,2,1.12,0.95
+59935,ELEAGUE Major 2018,2018-01-19 22:15:00,Gambit,Natus Vincere,Nuke,16,5,21,Gambit,16,5,2,1,1.5,0.7
+59934,ELEAGUE Major 2018,2018-01-19 21:15:00,Cloud9,G2,Cache,8,16,24,G2,11,13,0,1,0.93,1.21
+59932,ELEAGUE Major 2018,2018-01-19 20:10:00,Astralis,mousesports,Cache,2,16,18,mousesports,7,11,0,2,0.58,1.6
+59929,ELEAGUE Major 2018,2018-01-19 19:00:00,fnatic,FaZe,Cache,8,16,24,FaZe,8,16,1,3,0.86,1.28
+59927,ELEAGUE Major 2018,2018-01-19 18:00:00,BIG,Liquid,Inferno,5,16,21,Liquid,8,13,2,0,0.58,1.54
+59926,ELEAGUE Major 2018,2018-01-19 17:05:00,Virtus.pro,Quantum Bellator Fire,Cache,3,16,19,Quantum Bellator Fire,6,13,0,2,0.74,1.39
+59930,ELEAGUE Major 2018,2018-01-19 15:10:00,North,Vega Squadron,Overpass,10,16,26,Vega Squadron,13,13,2,2,0.96,1.18
+49967,PGL Major Krakow 2017,2017-07-23 15:15:00,Gambit,Immortals,Inferno,16,10,26,Gambit,15,11,4,0,1.25,0.91
+49966,PGL Major Krakow 2017,2017-07-23 15:15:00,Gambit,Immortals,Train,16,11,27,Gambit,18,9,1,1,1.23,0.88
+49962,PGL Major Krakow 2017,2017-07-23 15:15:00,Gambit,Immortals,Cobblestone,4,16,20,Immortals,6,14,0,3,0.6,1.61
+49956,PGL Major Krakow 2017,2017-07-22 17:50:00,Immortals,Virtus.pro,Mirage,16,11,27,Immortals,13,14,2,2,1.09,1.01
+49955,PGL Major Krakow 2017,2017-07-22 17:50:00,Immortals,Virtus.pro,Inferno,16,5,21,Immortals,12,9,1,1,1.33,0.73
+49954,PGL Major Krakow 2017,2017-07-22 13:30:00,Gambit,Astralis,Train,16,12,28,Gambit,14,14,1,0,1.15,0.88
+49953,PGL Major Krakow 2017,2017-07-22 13:30:00,Gambit,Astralis,Inferno,8,16,24,Astralis,12,12,1,1,0.82,1.26
+49952,PGL Major Krakow 2017,2017-07-22 13:30:00,Gambit,Astralis,Overpass,16,10,26,Gambit,12,14,2,0,1.18,0.87
+49951,PGL Major Krakow 2017,2017-07-22 10:45:00,North,Virtus.pro,Nuke,10,16,26,Virtus.pro,9,17,1,0,0.84,1.18
+49950,PGL Major Krakow 2017,2017-07-22 10:45:00,North,Virtus.pro,Cobblestone,9,16,25,Virtus.pro,11,14,0,1,0.87,1.24
+49889,PGL Major Krakow 2017,2017-07-21 18:25:00,BIG,Immortals,Train,14,16,30,Immortals,13,17,0,4,1.08,1.0
+49887,PGL Major Krakow 2017,2017-07-21 18:25:00,BIG,Immortals,Inferno,7,16,23,Immortals,10,13,1,3,0.8,1.33
+49881,PGL Major Krakow 2017,2017-07-21 18:25:00,BIG,Immortals,Cobblestone,19,17,36,BIG,22,14,1,1,1.17,0.95
+49878,PGL Major Krakow 2017,2017-07-21 15:10:00,Astralis,SK,Overpass,16,6,22,Astralis,18,4,1,2,1.42,0.7
+49875,PGL Major Krakow 2017,2017-07-21 15:10:00,Astralis,SK,Cache,16,12,28,Astralis,18,10,2,2,1.07,1.05
+49874,PGL Major Krakow 2017,2017-07-21 11:25:00,Gambit,fnatic,Inferno,16,12,28,Gambit,13,15,2,2,1.18,0.93
+49873,PGL Major Krakow 2017,2017-07-21 11:25:00,Gambit,fnatic,Train,16,14,30,Gambit,18,12,0,2,1.07,1.01
+49814,PGL Major Krakow 2017,2017-07-19 21:45:00,FlipSid3,Immortals,Train,6,16,22,Immortals,7,15,1,0,0.66,1.37
+49812,PGL Major Krakow 2017,2017-07-19 20:25:00,Virtus.pro,Cloud9,Train,16,10,26,Virtus.pro,14,12,0,2,1.2,0.9
+49809,PGL Major Krakow 2017,2017-07-19 18:45:00,fnatic,G2,Overpass,16,10,26,fnatic,13,13,3,2,1.14,1.03
+49803,PGL Major Krakow 2017,2017-07-19 17:25:00,SK,Immortals,Overpass,16,9,25,SK,12,13,3,3,1.36,0.83
+49798,PGL Major Krakow 2017,2017-07-19 15:10:00,North,Virtus.pro,Mirage,16,14,30,North,15,15,1,2,1.08,1.03
+49797,PGL Major Krakow 2017,2017-07-19 13:30:00,G2,Astralis,Inferno,6,16,22,Astralis,10,12,1,4,0.78,1.41
+49792,PGL Major Krakow 2017,2017-07-19 11:30:00,Natus Vincere,fnatic,Mirage,12,16,28,fnatic,10,18,0,3,0.99,1.09
+49786,PGL Major Krakow 2017,2017-07-19 09:50:00,PENTA,FlipSid3,Train,13,16,29,FlipSid3,15,14,2,2,1.06,1.07
+49781,PGL Major Krakow 2017,2017-07-19 08:00:00,mousesports,Cloud9,Train,11,16,27,Cloud9,17,10,2,4,1.0,1.11
+49772,PGL Major Krakow 2017,2017-07-18 20:15:00,SK,BIG,Inferno,14,16,30,BIG,14,16,0,1,1.09,1.0
+49769,PGL Major Krakow 2017,2017-07-18 18:45:00,Gambit,Virtus.pro,Train,16,11,27,Gambit,17,10,0,0,1.26,0.77
+49766,PGL Major Krakow 2017,2017-07-18 17:00:00,fnatic,Astralis,Nuke,14,16,30,Astralis,8,22,2,2,0.89,1.16
+49759,PGL Major Krakow 2017,2017-07-18 15:10:00,G2,Cloud9,Cobblestone,19,17,36,G2,12,24,2,0,0.97,1.16
+49758,PGL Major Krakow 2017,2017-07-18 13:40:00,Natus Vincere,Immortals,Overpass,10,16,26,Immortals,16,10,1,3,1.0,1.14
+49755,PGL Major Krakow 2017,2017-07-18 12:00:00,mousesports,North,Cobblestone,15,19,34,North,16,18,3,5,1.0,1.15
+49749,PGL Major Krakow 2017,2017-07-18 10:35:00,FlipSid3,FaZe,Mirage,16,10,26,FlipSid3,18,8,2,0,1.21,0.93
+49735,PGL Major Krakow 2017,2017-07-18 09:00:00,Vega Squadron,PENTA,Mirage,14,16,30,PENTA,13,17,2,1,0.97,1.19
+49728,PGL Major Krakow 2017,2017-07-17 21:20:00,Virtus.pro,fnatic,Cache,16,11,27,Virtus.pro,16,11,1,3,1.29,0.87
+49724,PGL Major Krakow 2017,2017-07-17 19:45:00,SK,Astralis,Inferno,16,8,24,SK,14,10,3,1,1.33,0.87
+49718,PGL Major Krakow 2017,2017-07-17 18:30:00,Gambit,G2,Cache,16,6,22,Gambit,12,10,2,0,1.28,0.74
+49710,PGL Major Krakow 2017,2017-07-17 16:10:00,BIG,Cloud9,Inferno,16,11,27,BIG,17,10,0,2,1.22,0.88
+49707,PGL Major Krakow 2017,2017-07-17 14:45:00,Immortals,Vega Squadron,Train,16,6,22,Immortals,17,5,0,1,1.47,0.6
+49706,PGL Major Krakow 2017,2017-07-17 12:30:00,FlipSid3,Natus Vincere,Train,9,16,25,Natus Vincere,8,17,2,0,0.83,1.3
+49701,PGL Major Krakow 2017,2017-07-17 10:20:00,mousesports,FaZe,Train,19,15,34,mousesports,18,16,1,1,1.18,0.94
+49697,PGL Major Krakow 2017,2017-07-17 09:00:00,PENTA,North,Mirage,9,16,25,North,10,15,3,0,0.93,1.22
+49684,PGL Major Krakow 2017,2017-07-16 20:40:00,Astralis,Immortals,Overpass,19,17,36,Astralis,22,14,3,1,1.13,0.99
+49678,PGL Major Krakow 2017,2017-07-16 18:55:00,Natus Vincere,G2,Overpass,14,16,30,G2,13,17,0,2,1.04,1.03
+49675,PGL Major Krakow 2017,2017-07-16 17:20:00,North,Cloud9,Mirage,12,16,28,Cloud9,14,14,3,2,0.97,1.07
+49671,PGL Major Krakow 2017,2017-07-16 15:45:00,FaZe,BIG,Inferno,8,16,24,BIG,12,12,1,1,0.8,1.25
+49670,PGL Major Krakow 2017,2017-07-16 13:55:00,SK,PENTA,Inferno,16,13,29,SK,14,14,0,1,1.07,0.97
+49667,PGL Major Krakow 2017,2017-07-16 12:40:00,Virtus.pro,Vega Squadron,Nuke,16,2,18,Virtus.pro,14,4,2,0,1.55,0.59
+49665,PGL Major Krakow 2017,2017-07-16 11:00:00,fnatic,FlipSid3,Mirage,16,12,28,fnatic,15,13,4,1,1.09,1.07
+49658,PGL Major Krakow 2017,2017-07-16 09:00:00,Gambit,mousesports,Inferno,16,10,26,Gambit,16,10,1,0,1.22,0.87
+41025,ELEAGUE Major 2017,2017-01-29 15:30:00,Astralis,Virtus.pro,Train,16,14,30,Astralis,12,18,2,0,1.07,1.03
+41023,ELEAGUE Major 2017,2017-01-29 15:30:00,Astralis,Virtus.pro,Overpass,16,14,30,Astralis,14,15,3,1,1.11,1.0
+41021,ELEAGUE Major 2017,2017-01-29 15:30:00,Astralis,Virtus.pro,Nuke,12,16,28,Virtus.pro,13,15,2,5,0.98,1.15
+41014,ELEAGUE Major 2017,2017-01-28 21:45:00,Virtus.pro,SK,Cobblestone,16,14,30,Virtus.pro,20,10,1,1,1.12,0.92
+41012,ELEAGUE Major 2017,2017-01-28 21:45:00,Virtus.pro,SK,Train,19,17,36,Virtus.pro,18,18,3,0,1.03,1.01
+41011,ELEAGUE Major 2017,2017-01-28 18:45:00,Astralis,fnatic,Nuke,16,5,21,Astralis,16,5,2,1,1.42,0.74
+41009,ELEAGUE Major 2017,2017-01-28 18:45:00,Astralis,fnatic,Cache,19,16,35,Astralis,20,15,4,5,1.2,0.92
+41007,ELEAGUE Major 2017,2017-01-28 15:00:00,FaZe,SK,Overpass,5,16,21,SK,5,16,0,1,0.63,1.5
+41004,ELEAGUE Major 2017,2017-01-28 15:00:00,FaZe,SK,Train,3,16,19,SK,5,14,0,3,0.62,1.59
+41000,ELEAGUE Major 2017,2017-01-28 15:00:00,FaZe,SK,Mirage,16,7,23,FaZe,12,11,3,0,1.22,0.94
+40993,ELEAGUE Major 2017,2017-01-27 23:35:00,Virtus.pro,North,Cobblestone,16,13,29,Virtus.pro,14,14,1,1,1.01,1.09
+40992,ELEAGUE Major 2017,2017-01-27 23:35:00,Virtus.pro,North,Cache,12,16,28,North,13,15,0,0,0.97,1.06
+40991,ELEAGUE Major 2017,2017-01-27 23:35:00,Virtus.pro,North,Overpass,16,4,20,Virtus.pro,14,6,2,0,1.4,0.72
+40988,ELEAGUE Major 2017,2017-01-27 19:45:00,fnatic,Gambit,Dust2,16,7,23,fnatic,13,10,1,1,1.31,0.78
+40987,ELEAGUE Major 2017,2017-01-27 19:45:00,fnatic,Gambit,Overpass,3,16,19,Gambit,6,13,1,2,0.65,1.54
+40984,ELEAGUE Major 2017,2017-01-27 19:45:00,fnatic,Gambit,Cache,16,7,23,fnatic,13,10,1,0,1.24,0.78
+40980,ELEAGUE Major 2017,2017-01-27 15:10:00,Natus Vincere,Astralis,Dust2,10,16,26,Astralis,11,15,2,1,0.85,1.26
+40977,ELEAGUE Major 2017,2017-01-27 15:10:00,Natus Vincere,Astralis,Mirage,16,14,30,Natus Vincere,18,12,2,2,1.18,0.94
+40976,ELEAGUE Major 2017,2017-01-27 15:10:00,Natus Vincere,Astralis,Overpass,7,16,23,Astralis,8,15,0,1,0.88,1.27
+40967,ELEAGUE Major 2017,2017-01-26 02:20:00,Liquid,Astralis,Mirage,3,16,19,Astralis,4,15,0,0,0.51,1.57
+40965,ELEAGUE Major 2017,2017-01-26 01:20:00,FaZe,Envy,Nuke,16,11,27,FaZe,14,13,0,2,1.24,0.86
+40963,ELEAGUE Major 2017,2017-01-25 23:35:00,North,GODSENT,Overpass,19,17,36,North,20,16,3,5,1.07,1.09
+40962,ELEAGUE Major 2017,2017-01-25 21:35:00,Gambit,FaZe,Overpass,16,14,30,Gambit,14,16,3,1,1.1,1.13
+40956,ELEAGUE Major 2017,2017-01-25 20:00:00,SK,Astralis,Dust2,19,17,36,SK,16,20,3,2,1.1,1.01
+40953,ELEAGUE Major 2017,2017-01-25 18:55:00,GODSENT,OpTic,Cache,16,8,24,GODSENT,12,12,1,0,1.22,0.92
+40952,ELEAGUE Major 2017,2017-01-25 17:55:00,mousesports,Liquid,Nuke,4,16,20,Liquid,6,14,0,1,0.54,1.49
+40951,ELEAGUE Major 2017,2017-01-25 16:30:00,Envy,fnatic,Cobblestone,11,16,27,fnatic,10,17,0,4,1.03,1.09
+40946,ELEAGUE Major 2017,2017-01-25 15:00:00,North,G2,Overpass,16,9,25,North,13,12,3,0,1.19,0.93
+40944,ELEAGUE Major 2017,2017-01-25 00:10:00,FlipSid3,OpTic,Train,13,16,29,OpTic,17,12,3,1,1.05,1.1
+40941,ELEAGUE Major 2017,2017-01-24 22:25:00,Liquid,FaZe,Nuke,18,22,40,FaZe,18,22,2,2,0.95,1.11
+40940,ELEAGUE Major 2017,2017-01-24 21:15:00,SK,Natus Vincere,Dust2,3,16,19,Natus Vincere,8,11,0,3,0.73,1.4
+40937,ELEAGUE Major 2017,2017-01-24 20:10:00,Astralis,G2,Train,16,5,21,Astralis,12,9,1,1,1.47,0.68
+40935,ELEAGUE Major 2017,2017-01-24 18:45:00,Gambit,Virtus.pro,Train,10,16,26,Virtus.pro,12,14,1,1,0.9,1.21
+40931,ELEAGUE Major 2017,2017-01-24 17:15:00,North,HellRaisers,Mirage,19,15,34,North,18,16,2,2,1.03,1.06
+40928,ELEAGUE Major 2017,2017-01-24 16:25:00,GODSENT,Envy,Cache,3,16,19,Envy,7,12,0,3,0.67,1.48
+40925,ELEAGUE Major 2017,2017-01-24 15:00:00,fnatic,mousesports,Dust2,16,11,27,fnatic,11,16,2,0,1.02,1.01
+40921,ELEAGUE Major 2017,2017-01-24 00:30:00,Virtus.pro,G2,Nuke,16,14,30,Virtus.pro,13,17,5,2,1.04,1.04
+40920,ELEAGUE Major 2017,2017-01-23 23:15:00,GODSENT,Gambit,Overpass,9,16,25,Gambit,11,14,1,3,0.81,1.34
+40919,ELEAGUE Major 2017,2017-01-23 21:40:00,OpTic,Astralis,Train,12,16,28,Astralis,14,14,0,2,0.83,1.27
+40918,ELEAGUE Major 2017,2017-01-23 20:15:00,North,fnatic,Cobblestone,13,16,29,fnatic,12,17,1,0,1.03,1.12
+40917,ELEAGUE Major 2017,2017-01-23 18:45:00,FlipSid3,Liquid,Overpass,14,16,30,Liquid,13,17,3,1,1.03,1.14
+40913,ELEAGUE Major 2017,2017-01-23 17:15:00,FaZe,SK,Mirage,17,19,36,SK,16,19,2,5,0.98,1.11
+40912,ELEAGUE Major 2017,2017-01-23 16:15:00,Natus Vincere,Envy,Cobblestone,16,6,22,Natus Vincere,17,4,2,0,1.37,0.78
+40911,ELEAGUE Major 2017,2017-01-23 15:00:00,mousesports,HellRaisers,Cache,16,7,23,mousesports,14,9,3,0,1.29,0.8
+40902,ELEAGUE Major 2017,2017-01-22 23:50:00,FlipSid3,FaZe,Nuke,9,16,25,FaZe,10,15,1,2,0.85,1.32
+40901,ELEAGUE Major 2017,2017-01-22 22:50:00,Astralis,GODSENT,Train,6,16,22,GODSENT,7,15,2,1,0.67,1.42
+40896,ELEAGUE Major 2017,2017-01-22 20:55:00,Liquid,Envy,Cache,21,25,46,Envy,20,26,5,4,1.04,1.16
+40891,ELEAGUE Major 2017,2017-01-22 20:00:00,Natus Vincere,mousesports,Cobblestone,16,3,19,Natus Vincere,14,5,1,0,1.48,0.64
+40888,ELEAGUE Major 2017,2017-01-22 18:40:00,Virtus.pro,OpTic,Cobblestone,16,13,29,Virtus.pro,16,13,4,1,1.16,1.02
+40887,ELEAGUE Major 2017,2017-01-22 17:30:00,SK,HellRaisers,Mirage,16,7,23,SK,15,8,3,1,1.43,0.7
+40886,ELEAGUE Major 2017,2017-01-22 16:30:00,fnatic,G2,Cache,10,16,26,G2,12,14,3,2,0.88,1.25
+40885,ELEAGUE Major 2017,2017-01-22 15:00:00,Gambit,North,Cobblestone,16,8,24,Gambit,12,12,2,0,1.31,0.79
+32417,ESL One Cologne 2016,2016-07-10 15:00:00,SK,Liquid,Cobblestone,16,6,22,SK,15,7,3,0,1.33,0.81
+32415,ESL One Cologne 2016,2016-07-10 15:00:00,SK,Liquid,Train,16,7,23,SK,13,10,3,0,1.26,0.82
+32394,ESL One Cologne 2016,2016-07-09 17:30:00,Liquid,fnatic,Cache,16,13,29,Liquid,16,13,2,0,1.11,0.96
+32393,ESL One Cologne 2016,2016-07-09 17:30:00,Liquid,fnatic,Cobblestone,16,13,29,Liquid,15,14,1,0,1.05,1.04
+32388,ESL One Cologne 2016,2016-07-09 13:00:00,Virtus.pro,SK,Mirage,12,16,28,SK,17,11,1,2,0.93,1.11
+32379,ESL One Cologne 2016,2016-07-09 13:00:00,Virtus.pro,SK,Nuke,5,16,21,SK,11,10,0,1,0.76,1.32
+32370,ESL One Cologne 2016,2016-07-09 13:00:00,Virtus.pro,SK,Cobblestone,19,17,36,Virtus.pro,19,17,3,0,1.03,1.07
+32358,ESL One Cologne 2016,2016-07-08 19:15:00,Gambit,fnatic,Cache,3,16,19,fnatic,5,14,0,0,0.47,1.64
+32357,ESL One Cologne 2016,2016-07-08 19:15:00,Gambit,fnatic,Train,5,16,21,fnatic,13,8,0,3,0.74,1.35
+32356,ESL One Cologne 2016,2016-07-08 15:00:00,Natus Vincere,Liquid,Cobblestone,6,16,22,Liquid,10,12,1,1,0.78,1.43
+32355,ESL One Cologne 2016,2016-07-08 15:00:00,Natus Vincere,Liquid,Nuke,12,16,28,Liquid,16,12,1,4,1.11,1.04
+32354,ESL One Cologne 2016,2016-07-08 15:00:00,Natus Vincere,Liquid,Train,16,11,27,Natus Vincere,16,11,1,0,1.14,0.93
+32352,ESL One Cologne 2016,2016-07-08 11:45:00,SK,FlipSid3,Nuke,19,17,36,SK,19,17,3,3,1.1,1.02
+32351,ESL One Cologne 2016,2016-07-08 11:45:00,SK,FlipSid3,Mirage,16,7,23,SK,14,9,0,1,1.4,0.72
+32349,ESL One Cologne 2016,2016-07-08 08:00:00,Virtus.pro,Astralis,Train,19,15,34,Virtus.pro,19,15,2,0,1.04,1.01
+32347,ESL One Cologne 2016,2016-07-08 08:00:00,Virtus.pro,Astralis,Overpass,19,17,36,Virtus.pro,20,16,1,1,1.08,1.0
+32346,ESL One Cologne 2016,2016-07-07 19:30:00,FaZe,fnatic,Mirage,7,16,23,fnatic,8,14,1,1,0.65,1.39
+32345,ESL One Cologne 2016,2016-07-07 19:30:00,FaZe,fnatic,Cache,9,16,25,fnatic,12,13,2,1,0.97,1.17
+32344,ESL One Cologne 2016,2016-07-07 17:00:00,Liquid,mousesports,Mirage,16,6,22,Liquid,13,9,1,0,1.26,0.8
+32342,ESL One Cologne 2016,2016-07-07 17:00:00,Liquid,mousesports,Cobblestone,16,11,27,Liquid,15,12,2,1,1.14,0.97
+32338,ESL One Cologne 2016,2016-07-07 13:20:00,NiP,FlipSid3,Mirage,11,16,27,FlipSid3,7,20,1,1,0.9,1.22
+32337,ESL One Cologne 2016,2016-07-07 13:20:00,NiP,FlipSid3,Cache,2,16,18,FlipSid3,4,14,0,1,0.64,1.49
+32336,ESL One Cologne 2016,2016-07-07 13:20:00,NiP,FlipSid3,Overpass,16,14,30,NiP,15,15,1,2,1.09,1.0
+32335,ESL One Cologne 2016,2016-07-07 09:00:00,Astralis,Dignitas,Cache,16,14,30,Astralis,19,11,4,2,1.2,0.94
+32334,ESL One Cologne 2016,2016-07-07 09:00:00,Astralis,Dignitas,Mirage,16,10,26,Astralis,16,10,1,2,1.31,0.82
+32332,ESL One Cologne 2016,2016-07-07 09:00:00,Astralis,Dignitas,Cobblestone,16,19,35,Dignitas,19,16,1,2,1.07,1.06
+32327,ESL One Cologne 2016,2016-07-06 18:35:00,G2,fnatic,Train,13,16,29,fnatic,16,12,3,3,1.1,1.03
+32326,ESL One Cologne 2016,2016-07-06 16:55:00,SK,FaZe,Cobblestone,16,6,22,SK,19,3,0,3,1.54,0.59
+32323,ESL One Cologne 2016,2016-07-06 15:25:00,Envy,mousesports,Train,12,16,28,mousesports,12,16,0,2,0.96,1.08
+32322,ESL One Cologne 2016,2016-07-06 14:00:00,Liquid,Virtus.pro,Cobblestone,12,16,28,Virtus.pro,14,14,1,1,1.07,1.13
+32321,ESL One Cologne 2016,2016-07-06 12:40:00,FlipSid3,OpTic,Train,16,13,29,FlipSid3,17,12,0,1,1.17,0.93
+32320,ESL One Cologne 2016,2016-07-06 11:15:00,Natus Vincere,NiP,Cobblestone,16,12,28,Natus Vincere,16,12,3,1,1.19,0.94
+32319,ESL One Cologne 2016,2016-07-06 10:15:00,Dignitas,CLG,Cobblestone,16,1,17,Dignitas,13,4,1,0,1.72,0.47
+32318,ESL One Cologne 2016,2016-07-06 09:00:00,Astralis,Gambit,Dust2,6,16,22,Gambit,11,11,1,1,0.84,1.35
+32305,ESL One Cologne 2016,2016-07-05 18:05:00,fnatic,FaZe,Dust2,14,16,30,FaZe,16,13,1,1,0.91,1.17
+32302,ESL One Cologne 2016,2016-07-05 16:45:00,SK,G2,Cobblestone,16,11,27,SK,18,9,0,4,1.24,0.87
+32297,ESL One Cologne 2016,2016-07-05 15:15:00,Virtus.pro,mousesports,Train,16,10,26,Virtus.pro,15,11,3,1,1.23,0.9
+32296,ESL One Cologne 2016,2016-07-05 14:00:00,Liquid,Envy,Train,16,7,23,Liquid,13,10,2,0,1.29,0.79
+32295,ESL One Cologne 2016,2016-07-05 13:00:00,NiP,OpTic,Dust2,16,4,20,NiP,12,8,0,0,1.53,0.56
+32294,ESL One Cologne 2016,2016-07-05 11:45:00,Natus Vincere,FlipSid3,Train,16,7,23,Natus Vincere,13,10,1,2,1.34,0.8
+32293,ESL One Cologne 2016,2016-07-05 10:25:00,CLG,Gambit,Dust2,13,16,29,Gambit,13,16,1,1,0.99,1.07
+32292,ESL One Cologne 2016,2016-07-05 09:00:00,Astralis,Dignitas,Overpass,16,12,28,Astralis,19,9,3,2,1.15,0.96
+29610,MLG Columbus 2016,2016-04-03 17:45:00,Natus Vincere,Luminosity,Overpass,2,16,18,Luminosity,4,14,0,6,0.58,1.59
+29608,MLG Columbus 2016,2016-04-03 17:45:00,Natus Vincere,Luminosity,Mirage,17,19,36,Luminosity,16,20,7,4,0.99,1.2
+29603,MLG Columbus 2016,2016-04-02 21:45:00,Liquid,Luminosity,Cache,16,19,35,Luminosity,18,17,3,2,0.99,1.15
+29601,MLG Columbus 2016,2016-04-02 21:45:00,Liquid,Luminosity,Mirage,15,19,34,Luminosity,17,17,2,1,0.87,1.17
+29600,MLG Columbus 2016,2016-04-02 18:45:00,Natus Vincere,Astralis,Dust2,16,5,21,Natus Vincere,14,7,2,0,1.38,0.72
+29599,MLG Columbus 2016,2016-04-02 18:45:00,Natus Vincere,Astralis,Inferno,16,14,30,Natus Vincere,12,18,1,0,1.02,0.96
+29592,MLG Columbus 2016,2016-04-02 14:00:00,Luminosity,Virtus.pro,Overpass,16,11,27,Luminosity,18,9,1,1,1.12,0.97
+29589,MLG Columbus 2016,2016-04-02 14:00:00,Luminosity,Virtus.pro,Cobblestone,16,10,26,Luminosity,17,9,0,3,1.31,0.84
+29587,MLG Columbus 2016,2016-04-02 14:00:00,Luminosity,Virtus.pro,Cache,17,19,36,Virtus.pro,17,19,1,2,0.97,1.14
+29575,MLG Columbus 2016,2016-04-01 20:00:00,Liquid,CLG,Mirage,16,6,22,Liquid,18,3,1,1,1.38,0.7
+29574,MLG Columbus 2016,2016-04-01 20:00:00,Liquid,CLG,Cache,16,13,29,Liquid,15,14,3,0,1.12,1.05
+29573,MLG Columbus 2016,2016-04-01 17:15:00,Astralis,fnatic,Cache,16,5,21,Astralis,12,9,0,0,1.4,0.68
+29572,MLG Columbus 2016,2016-04-01 17:15:00,Astralis,fnatic,Overpass,16,10,26,Astralis,15,11,4,1,1.18,1.0
+29571,MLG Columbus 2016,2016-04-01 14:00:00,Natus Vincere,NiP,Mirage,16,10,26,Natus Vincere,12,14,2,1,1.25,0.81
+29570,MLG Columbus 2016,2016-04-01 14:00:00,Natus Vincere,NiP,Inferno,16,9,25,Natus Vincere,15,10,2,1,1.18,0.96
+29569,MLG Columbus 2016,2016-04-01 00:00:00,G2,Virtus.pro,Cobblestone,7,16,23,Virtus.pro,8,15,1,3,0.72,1.38
+29568,MLG Columbus 2016,2016-04-01 00:00:00,G2,Virtus.pro,Inferno,16,9,25,G2,14,11,3,2,1.25,0.9
+29567,MLG Columbus 2016,2016-04-01 00:00:00,G2,Virtus.pro,Train,9,16,25,Virtus.pro,12,13,0,2,0.8,1.32
+29566,MLG Columbus 2016,2016-03-31 20:00:00,Gambit,CLG,Mirage,10,16,26,CLG,12,14,0,0,0.87,1.26
+29565,MLG Columbus 2016,2016-03-31 20:00:00,Gambit,CLG,Cobblestone,11,16,27,CLG,12,15,1,1,0.94,1.14
+29564,MLG Columbus 2016,2016-03-31 20:00:00,Gambit,CLG,Cache,16,13,29,Gambit,16,13,3,2,1.15,0.93
+29563,MLG Columbus 2016,2016-03-31 17:40:00,FaZe,fnatic,Cobblestone,6,16,22,fnatic,8,13,2,0,0.66,1.45
+29560,MLG Columbus 2016,2016-03-31 17:40:00,FaZe,fnatic,Mirage,10,16,26,fnatic,17,9,1,3,0.98,1.14
+29559,MLG Columbus 2016,2016-03-31 14:00:00,mousesports,NiP,Overpass,9,16,25,NiP,11,14,0,0,0.92,1.18
+29558,MLG Columbus 2016,2016-03-31 14:00:00,mousesports,NiP,Cache,16,12,28,mousesports,16,12,0,3,1.23,0.92
+29557,MLG Columbus 2016,2016-03-31 14:00:00,mousesports,NiP,Cobblestone,5,16,21,NiP,11,9,1,2,0.87,1.34
+29556,MLG Columbus 2016,2016-03-31 00:40:00,Natus Vincere,Virtus.pro,Cobblestone,16,4,20,Natus Vincere,13,7,1,0,1.46,0.64
+29555,MLG Columbus 2016,2016-03-30 23:25:00,CLG,Astralis,Overpass,9,16,25,Astralis,8,16,0,1,0.77,1.22
+29552,MLG Columbus 2016,2016-03-30 21:20:00,Liquid,fnatic,Dust2,22,19,41,Liquid,22,19,3,2,1.18,0.95
+29551,MLG Columbus 2016,2016-03-30 20:30:00,NiP,Luminosity,Mirage,5,16,21,Luminosity,7,14,0,2,0.67,1.48
+29550,MLG Columbus 2016,2016-03-30 19:30:00,Cloud9,G2,Dust2,3,16,19,G2,5,14,0,0,0.61,1.57
+29549,MLG Columbus 2016,2016-03-30 18:10:00,Envy,Gambit,Cache,13,16,29,Gambit,17,12,2,2,1.06,1.1
+29548,MLG Columbus 2016,2016-03-30 17:00:00,FaZe,Splyce,Inferno,16,3,19,FaZe,10,9,0,0,1.47,0.62
+29540,MLG Columbus 2016,2016-03-30 14:00:00,FlipSid3,mousesports,Cobblestone,28,31,59,mousesports,29,30,4,9,1.1,1.04
+29539,MLG Columbus 2016,2016-03-30 00:15:00,Virtus.pro,G2,Train,16,1,17,Virtus.pro,12,5,2,0,1.54,0.64
+29538,MLG Columbus 2016,2016-03-29 23:15:00,Natus Vincere,Cloud9,Train,16,9,25,Natus Vincere,13,12,1,0,1.21,0.83
+29537,MLG Columbus 2016,2016-03-29 21:50:00,Astralis,Gambit,Train,16,10,26,Astralis,14,12,3,1,1.21,0.95
+29536,MLG Columbus 2016,2016-03-29 20:10:00,Envy,CLG,Cobblestone,8,16,24,CLG,9,15,2,1,0.88,1.27
+29535,MLG Columbus 2016,2016-03-29 19:00:00,fnatic,Splyce,Train,16,5,21,fnatic,13,8,1,1,1.47,0.65
+29534,MLG Columbus 2016,2016-03-29 17:30:00,FaZe,Liquid,Cache,11,16,27,Liquid,11,16,0,2,0.92,1.17
+29533,MLG Columbus 2016,2016-03-29 16:00:00,Luminosity,mousesports,Mirage,16,13,29,Luminosity,14,15,1,2,1.06,1.03
+29735,MLG Columbus 2016,2016-03-29 14:00:00,NiP,FlipSid3,Cache,19,17,36,NiP,13,23,4,2,1.04,1.11
+25275,DreamHack Open Cluj-Napoca 2015,2015-11-01 18:00:00,Envy,Natus Vincere,Cobblestone,16,5,21,Envy,12,9,2,1,1.38,0.65
+25274,DreamHack Open Cluj-Napoca 2015,2015-11-01 18:00:00,Envy,Natus Vincere,Train,16,14,30,Envy,16,13,4,0,0.86,1.11
+25273,DreamHack Open Cluj-Napoca 2015,2015-11-01 15:30:00,NiP,Natus Vincere,Dust2,6,16,22,Natus Vincere,6,16,1,0,0.55,1.4
+25272,DreamHack Open Cluj-Napoca 2015,2015-11-01 15:30:00,NiP,Natus Vincere,Train,3,16,19,Natus Vincere,3,16,1,3,0.66,1.39
+25271,DreamHack Open Cluj-Napoca 2015,2015-11-01 11:00:00,Envy,G2,Cache,16,7,23,Envy,10,13,2,1,1.38,0.73
+25267,DreamHack Open Cluj-Napoca 2015,2015-11-01 11:00:00,Envy,G2,Inferno,25,21,46,Envy,21,25,1,4,1.04,1.01
+25266,DreamHack Open Cluj-Napoca 2015,2015-11-01 11:00:00,Envy,G2,Dust2,10,16,26,G2,10,15,1,3,0.89,1.13
+25265,DreamHack Open Cluj-Napoca 2015,2015-10-31 19:30:00,Luminosity,Natus Vincere,Overpass,13,16,29,Natus Vincere,12,17,1,2,0.88,1.0
+25264,DreamHack Open Cluj-Napoca 2015,2015-10-31 19:30:00,Luminosity,Natus Vincere,Dust2,14,16,30,Natus Vincere,11,19,2,2,0.96,1.08
+25263,DreamHack Open Cluj-Napoca 2015,2015-10-31 16:45:00,TSM,NiP,Dust2,8,16,24,NiP,10,14,1,2,0.85,1.19
+25262,DreamHack Open Cluj-Napoca 2015,2015-10-31 16:45:00,TSM,NiP,Train,10,16,26,NiP,15,11,1,2,0.92,1.07
+25260,DreamHack Open Cluj-Napoca 2015,2015-10-31 13:45:00,Virtus.pro,G2,Train,17,19,36,G2,19,17,2,3,0.96,1.03
+25259,DreamHack Open Cluj-Napoca 2015,2015-10-31 13:45:00,Virtus.pro,G2,Cache,10,16,26,G2,16,10,0,3,0.88,1.16
+25258,DreamHack Open Cluj-Napoca 2015,2015-10-31 10:00:00,Envy,fnatic,Cache,16,2,18,Envy,11,7,0,0,1.49,0.44
+25257,DreamHack Open Cluj-Napoca 2015,2015-10-31 10:00:00,Envy,fnatic,Cobblestone,16,9,25,Envy,17,8,1,3,1.25,0.74
+25256,DreamHack Open Cluj-Napoca 2015,2015-10-31 10:00:00,Envy,fnatic,Mirage,9,16,25,fnatic,14,11,1,0,0.82,1.14
+25255,DreamHack Open Cluj-Napoca 2015,2015-10-30 20:10:00,CLG,Natus Vincere,Inferno,8,16,24,Natus Vincere,8,16,2,2,0.77,1.22
+25254,DreamHack Open Cluj-Napoca 2015,2015-10-30 20:10:00,CLG,Natus Vincere,Cobblestone,16,10,26,CLG,12,14,3,0,1.01,0.9
+25253,DreamHack Open Cluj-Napoca 2015,2015-10-30 20:10:00,CLG,Natus Vincere,Train,9,16,25,Natus Vincere,13,12,1,2,0.83,1.13
+25252,DreamHack Open Cluj-Napoca 2015,2015-10-30 17:30:00,NiP,Titan,Dust2,16,1,17,NiP,14,3,2,0,1.59,0.38
+25251,DreamHack Open Cluj-Napoca 2015,2015-10-30 17:30:00,NiP,Titan,Cache,16,14,30,NiP,16,14,2,1,0.97,1.1
+25250,DreamHack Open Cluj-Napoca 2015,2015-10-30 13:00:00,mousesports,G2,Cache,5,16,21,G2,10,11,2,1,0.62,1.36
+25249,DreamHack Open Cluj-Napoca 2015,2015-10-30 13:00:00,mousesports,G2,Inferno,16,12,28,mousesports,15,13,0,1,1.07,0.87
+25247,DreamHack Open Cluj-Napoca 2015,2015-10-30 13:00:00,mousesports,G2,Mirage,16,19,35,G2,18,17,3,6,0.94,1.07
+25244,DreamHack Open Cluj-Napoca 2015,2015-10-30 10:00:00,Cloud9,fnatic,Overpass,12,16,28,fnatic,11,17,0,1,0.92,1.1
+25243,DreamHack Open Cluj-Napoca 2015,2015-10-30 10:00:00,Cloud9,fnatic,Dust2,6,16,22,fnatic,9,13,1,3,0.81,1.17
+25242,DreamHack Open Cluj-Napoca 2015,2015-10-29 22:25:00,Envy,Natus Vincere,Mirage,16,9,25,Envy,14,11,1,4,1.25,0.8
+25241,DreamHack Open Cluj-Napoca 2015,2015-10-29 20:55:00,Virtus.pro,Titan,Train,16,7,23,Virtus.pro,13,10,2,2,1.24,0.81
+25240,DreamHack Open Cluj-Napoca 2015,2015-10-29 19:45:00,TSM,G2,Dust2,16,6,22,TSM,12,10,3,1,1.26,0.73
+25239,DreamHack Open Cluj-Napoca 2015,2015-10-29 17:30:00,fnatic,Luminosity,Inferno,13,16,29,Luminosity,17,11,1,0,0.99,0.96
+25238,DreamHack Open Cluj-Napoca 2015,2015-10-29 15:55:00,Dignitas,CLG,Cobblestone,14,16,30,CLG,12,18,0,3,0.96,0.97
+25237,DreamHack Open Cluj-Napoca 2015,2015-10-29 14:20:00,Liquid,NiP,Mirage,11,16,27,NiP,13,14,1,0,0.85,1.13
+25236,DreamHack Open Cluj-Napoca 2015,2015-10-29 12:35:00,FlipSid3,mousesports,Overpass,8,16,24,mousesports,10,14,1,2,0.83,1.22
+25235,DreamHack Open Cluj-Napoca 2015,2015-10-29 10:00:00,Vexed,Cloud9,Cobblestone,13,16,29,Cloud9,11,17,2,0,0.94,1.01
+25234,DreamHack Open Cluj-Napoca 2015,2015-10-28 20:15:00,Natus Vincere,CLG,Cobblestone,16,12,28,Natus Vincere,15,13,2,2,1.13,0.86
+25233,DreamHack Open Cluj-Napoca 2015,2015-10-28 19:15:00,Envy,Dignitas,Cobblestone,16,6,22,Envy,12,9,0,1,1.35,0.6
+25232,DreamHack Open Cluj-Napoca 2015,2015-10-28 17:40:00,NiP,Titan,Cobblestone,13,16,29,Titan,15,14,1,1,0.89,1.09
+25230,DreamHack Open Cluj-Napoca 2015,2015-10-28 16:00:00,Virtus.pro,Liquid,Cobblestone,19,15,34,Virtus.pro,17,17,1,4,1.05,0.87
+25229,DreamHack Open Cluj-Napoca 2015,2015-10-28 14:45:00,G2,mousesports,Inferno,16,8,24,G2,15,9,1,1,1.28,0.7
+25228,DreamHack Open Cluj-Napoca 2015,2015-10-28 13:30:00,TSM,FlipSid3,Cache,16,6,22,TSM,13,9,5,3,1.19,0.8
+25227,DreamHack Open Cluj-Napoca 2015,2015-10-28 12:00:00,Luminosity,Cloud9,Dust2,16,11,27,Luminosity,16,11,0,0,1.11,0.86
+25226,DreamHack Open Cluj-Napoca 2015,2015-10-28 10:45:00,fnatic,Vexed,Cobblestone,16,10,26,fnatic,14,11,2,2,1.11,0.85
+22282,ESL One Cologne 2015,2015-08-23 19:00:00,Envy,fnatic,Cobblestone,7,16,23,fnatic,11,12,2,2,0.79,1.25
+22280,ESL One Cologne 2015,2015-08-23 19:00:00,Envy,fnatic,Dust2,15,19,34,fnatic,17,17,0,3,0.95,0.96
+22279,ESL One Cologne 2015,2015-08-23 15:30:00,Virtus.pro,fnatic,Cobblestone,7,16,23,fnatic,11,12,0,1,0.72,1.18
+22278,ESL One Cologne 2015,2015-08-23 15:30:00,Virtus.pro,fnatic,Inferno,14,16,30,fnatic,14,16,0,3,0.94,1.06
+22276,ESL One Cologne 2015,2015-08-23 15:30:00,Virtus.pro,fnatic,Mirage,16,6,22,Virtus.pro,14,8,0,0,1.14,0.84
+22275,ESL One Cologne 2015,2015-08-23 11:45:00,Envy,TSM,Inferno,16,9,25,Envy,16,9,1,1,1.0,0.9
+22274,ESL One Cologne 2015,2015-08-23 11:45:00,Envy,TSM,Dust2,8,16,24,TSM,9,15,0,2,0.73,1.17
+22273,ESL One Cologne 2015,2015-08-23 11:45:00,Envy,TSM,Cache,16,12,28,Envy,15,13,5,2,1.08,0.86
+22271,ESL One Cologne 2015,2015-08-22 21:00:00,fnatic,Luminosity,Mirage,16,14,30,fnatic,19,11,1,1,1.02,0.96
+22270,ESL One Cologne 2015,2015-08-22 21:00:00,fnatic,Luminosity,Train,16,5,21,fnatic,12,9,0,1,1.24,0.71
+22269,ESL One Cologne 2015,2015-08-22 18:00:00,Virtus.pro,NiP,Inferno,16,5,21,Virtus.pro,14,7,3,1,1.28,0.7
+22268,ESL One Cologne 2015,2015-08-22 18:00:00,Virtus.pro,NiP,Train,16,14,30,Virtus.pro,18,12,1,2,0.99,0.97
+22267,ESL One Cologne 2015,2015-08-22 14:35:00,TSM,Kinguin,Overpass,16,8,24,TSM,15,9,2,1,1.2,0.78
+22266,ESL One Cologne 2015,2015-08-22 14:35:00,TSM,Kinguin,Dust2,16,6,22,TSM,10,12,2,3,1.31,0.68
+22265,ESL One Cologne 2015,2015-08-22 11:30:00,Envy,Natus Vincere,Mirage,16,10,26,Envy,16,10,0,2,1.16,0.76
+22264,ESL One Cologne 2015,2015-08-22 11:30:00,Envy,Natus Vincere,Inferno,16,13,29,Envy,16,13,2,1,0.9,1.04
+22261,ESL One Cologne 2015,2015-08-21 22:05:00,Luminosity,FlipSid3,Cobblestone,22,18,40,Luminosity,21,19,2,3,0.99,0.98
+22260,ESL One Cologne 2015,2015-08-21 20:40:00,FlipSid3,mousesports,Cobblestone,16,14,30,FlipSid3,15,15,4,3,1.03,0.95
+22259,ESL One Cologne 2015,2015-08-21 19:30:00,NiP,Renegades,Inferno,16,5,21,NiP,14,7,1,1,1.45,0.57
+22258,ESL One Cologne 2015,2015-08-21 18:25:00,Renegades,Titan,Mirage,16,9,25,Renegades,15,10,2,0,1.12,0.84
+22257,ESL One Cologne 2015,2015-08-21 16:50:00,Natus Vincere,CLG,Cobblestone,16,14,30,Natus Vincere,18,12,2,2,0.99,0.95
+22256,ESL One Cologne 2015,2015-08-21 16:41:00,CLG,eBettle,Mirage,16,14,30,CLG,18,12,3,0,0.97,1.0
+22255,ESL One Cologne 2015,2015-08-21 13:45:00,Cloud9,Kinguin,Dust2,13,16,29,Kinguin,10,19,1,2,0.77,1.11
+22253,ESL One Cologne 2015,2015-08-21 12:00:00,Kinguin,Immunity,Dust2,16,13,29,Kinguin,14,15,0,1,1.05,0.91
+22252,ESL One Cologne 2015,2015-08-20 22:15:00,fnatic,Natus Vincere,Inferno,16,2,18,fnatic,12,6,1,1,1.55,0.44
+22251,ESL One Cologne 2015,2015-08-20 21:05:00,Virtus.pro,Cloud9,Cobblestone,16,8,24,Virtus.pro,16,8,1,0,1.21,0.71
+22249,ESL One Cologne 2015,2015-08-20 19:30:00,Titan,Natus Vincere,Overpass,17,19,36,Natus Vincere,15,21,4,1,0.88,1.14
+22248,ESL One Cologne 2015,2015-08-20 19:30:00,Cloud9,mousesports,Overpass,16,10,26,Cloud9,15,11,1,1,1.08,0.88
+22246,ESL One Cologne 2015,2015-08-20 18:15:00,fnatic,eBettle,Mirage,16,2,18,fnatic,13,5,0,1,1.55,0.38
+22245,ESL One Cologne 2015,2015-08-20 18:15:00,Virtus.pro,Immunity,Cobblestone,16,8,24,Virtus.pro,14,10,0,0,1.25,0.73
+22243,ESL One Cologne 2015,2015-08-20 18:05:00,Envy,Luminosity,Cobblestone,19,16,35,Envy,19,16,2,2,1.05,0.94
+22242,ESL One Cologne 2015,2015-08-20 17:00:00,NiP,TSM,Cache,3,16,19,TSM,6,13,1,2,0.63,1.39
+22240,ESL One Cologne 2015,2015-08-20 16:36:00,Renegades,TSM,Train,11,16,27,TSM,13,14,0,1,0.89,1.06
+22239,ESL One Cologne 2015,2015-08-20 15:25:00,Kinguin,Luminosity,Overpass,6,16,22,Luminosity,10,12,0,2,0.71,1.3
+22238,ESL One Cologne 2015,2015-08-20 14:00:00,NiP,CLG,Dust2,16,13,29,NiP,14,15,1,1,1.09,0.89
+22236,ESL One Cologne 2015,2015-08-20 14:00:00,Envy,FlipSid3,Inferno,16,3,19,Envy,12,7,1,0,1.43,0.58
+19275,ESL One Katowice 2015,2015-03-15 13:00:00,fnatic,NiP,Inferno,16,13,29,fnatic,14,15,1,2,1.02,0.91
+19274,ESL One Katowice 2015,2015-03-15 13:00:00,fnatic,NiP,Cache,10,16,26,NiP,10,16,2,0,0.85,1.2
+19273,ESL One Katowice 2015,2015-03-15 13:00:00,fnatic,NiP,Dust2,16,14,30,fnatic,17,13,2,1,1.01,0.93
+19272,ESL One Katowice 2015,2015-03-14 20:00:00,Envy,NiP,Dust2,10,16,26,NiP,9,17,1,2,0.81,1.19
+19271,ESL One Katowice 2015,2015-03-14 20:00:00,Envy,NiP,Cache,9,16,25,NiP,7,18,0,2,0.82,1.03
+19270,ESL One Katowice 2015,2015-03-14 17:00:00,fnatic,Virtus.pro,Mirage,16,8,24,fnatic,15,9,3,1,1.11,0.79
+19268,ESL One Katowice 2015,2015-03-14 17:00:00,fnatic,Virtus.pro,Cobblestone,19,17,36,fnatic,17,19,2,1,1.07,0.95
+19267,ESL One Katowice 2015,2015-03-14 13:00:00,NiP,TSM,Nuke,16,12,28,NiP,19,9,1,0,1.08,0.88
+19266,ESL One Katowice 2015,2015-03-14 13:00:00,NiP,TSM,Inferno,4,16,20,TSM,11,9,0,3,0.63,1.36
+19265,ESL One Katowice 2015,2015-03-14 13:00:00,NiP,TSM,Dust2,16,8,24,NiP,10,13,3,3,1.19,0.84
+19264,ESL One Katowice 2015,2015-03-13 19:45:00,Virtus.pro,Keyd Stars,Nuke,16,1,17,Virtus.pro,13,4,1,1,1.62,0.33
+19262,ESL One Katowice 2015,2015-03-13 19:45:00,Virtus.pro,Keyd Stars,Overpass,17,19,36,Keyd Stars,16,20,3,3,0.99,0.99
+19261,ESL One Katowice 2015,2015-03-13 19:45:00,Virtus.pro,Keyd Stars,Mirage,16,4,20,Virtus.pro,15,5,1,0,1.29,0.71
+19260,ESL One Katowice 2015,2015-03-13 17:00:00,fnatic,PENTA,Cache,16,7,23,fnatic,15,8,1,1,1.2,0.78
+19259,ESL One Katowice 2015,2015-03-13 17:00:00,fnatic,PENTA,Inferno,16,8,24,fnatic,15,9,4,0,1.16,0.73
+19258,ESL One Katowice 2015,2015-03-13 13:00:00,Envy,Natus Vincere,Cobblestone,16,3,19,Envy,12,7,2,0,1.36,0.6
+19257,ESL One Katowice 2015,2015-03-13 13:00:00,Envy,Natus Vincere,Dust2,14,16,30,Natus Vincere,13,17,1,2,1.01,0.91
+19256,ESL One Katowice 2015,2015-03-13 13:00:00,Envy,Natus Vincere,Cache,16,12,28,Envy,14,14,2,2,1.07,0.92
+19255,ESL One Katowice 2015,2015-03-12 23:00:00,TSM,Cloud9,Overpass,16,8,24,TSM,16,8,2,2,1.15,0.83
+19253,ESL One Katowice 2015,2015-03-12 21:40:00,Virtus.pro,Cloud9,Inferno,16,11,27,Virtus.pro,14,11,1,1,1.03,0.9
+19252,ESL One Katowice 2015,2015-03-12 21:30:00,Keyd Stars,CLG,Dust2,16,8,24,Keyd Stars,17,7,2,0,1.19,0.74
+19254,ESL One Katowice 2015,2015-03-12 21:00:00,3DMAX,TSM,Nuke,10,16,26,TSM,12,14,0,0,0.86,1.11
+19251,ESL One Katowice 2015,2015-03-12 19:50:00,CLG,NiP,Mirage,7,16,23,NiP,9,14,1,2,0.72,1.22
+19250,ESL One Katowice 2015,2015-03-12 19:35:00,HellRaisers,Keyd Stars,Inferno,12,16,28,Keyd Stars,12,16,2,2,0.9,1.06
+19249,ESL One Katowice 2015,2015-03-12 19:35:00,Cloud9,TSM,Nuke,16,14,30,Cloud9,14,16,1,0,0.95,0.97
+19248,ESL One Katowice 2015,2015-03-12 19:35:00,Virtus.pro,3DMAX,Overpass,16,5,21,Virtus.pro,11,10,1,1,1.34,0.61
+19247,ESL One Katowice 2015,2015-03-12 18:00:00,NiP,Keyd Stars,Inferno,16,9,25,NiP,17,8,5,0,1.07,0.9
+19245,ESL One Katowice 2015,2015-03-12 18:00:00,Vox Eminor,Natus Vincere,Inferno,3,16,19,Natus Vincere,6,13,0,0,0.5,1.53
+19246,ESL One Katowice 2015,2015-03-12 17:50:00,CLG,HellRaisers,Nuke,16,14,30,CLG,15,15,0,2,1.1,0.86
+19244,ESL One Katowice 2015,2015-03-12 16:50:00,LGB,PENTA,Dust2,12,16,28,PENTA,10,18,2,2,0.87,1.12
+19243,ESL One Katowice 2015,2015-03-12 16:25:00,fnatic,Natus Vincere,Cobblestone,16,7,23,fnatic,12,10,4,0,1.17,0.85
+19242,ESL One Katowice 2015,2015-03-12 15:45:00,Vox Eminor,FlipSid3,Cache,16,2,18,Vox Eminor,14,4,2,0,1.45,0.6
+19241,ESL One Katowice 2015,2015-03-12 15:30:00,Titan,PENTA,Cache,4,16,20,PENTA,4,16,1,2,0.6,1.36
+19240,ESL One Katowice 2015,2015-03-12 14:50:00,Envy,LGB,Cache,16,8,24,Envy,15,9,1,1,1.25,0.75
+19239,ESL One Katowice 2015,2015-03-12 14:50:00,Natus Vincere,FlipSid3,Mirage,16,2,18,Natus Vincere,10,8,1,1,1.52,0.5
+19238,ESL One Katowice 2015,2015-03-12 14:50:00,fnatic,Vox Eminor,Inferno,16,3,19,fnatic,13,6,2,0,1.48,0.52
+19236,ESL One Katowice 2015,2015-03-12 14:46:00,LGB,PENTA,Dust2,16,3,19,LGB,18,1,1,0,1.34,0.62
+19237,ESL One Katowice 2015,2015-03-12 13:40:00,Envy,Titan,Cobblestone,16,14,30,Envy,17,13,1,3,1.05,0.91
+18729,DreamHack Winter 2014,2014-11-29 21:00:00,NiP,LDLC,Overpass,16,19,35,LDLC,15,20,2,3,0.99,1.02
+18728,DreamHack Winter 2014,2014-11-29 21:00:00,NiP,LDLC,Inferno,16,4,20,NiP,15,5,1,0,1.42,0.59
+18727,DreamHack Winter 2014,2014-11-29 21:00:00,NiP,LDLC,Dust2,10,16,26,LDLC,9,16,0,0,0.69,1.21
+18726,DreamHack Winter 2014,2014-11-29 17:30:00,Natus Vincere,LDLC,Dust2,11,16,27,LDLC,14,13,0,0,0.87,1.08
+18725,DreamHack Winter 2014,2014-11-29 17:30:00,Natus Vincere,LDLC,Inferno,11,16,27,LDLC,12,15,1,0,0.94,1.03
+18724,DreamHack Winter 2014,2014-11-29 13:10:00,NiP,Virtus.pro,Inferno,16,8,24,NiP,16,8,1,1,1.19,0.76
+18723,DreamHack Winter 2014,2014-11-29 13:10:00,NiP,Virtus.pro,Cache,9,16,25,Virtus.pro,10,15,2,1,0.74,1.21
+18720,DreamHack Winter 2014,2014-11-29 13:10:00,NiP,Virtus.pro,Nuke,22,20,42,NiP,19,23,1,4,1.05,0.91
+18719,DreamHack Winter 2014,2014-11-28 21:15:00,Dignitas,Natus Vincere,Mirage,13,16,29,Natus Vincere,11,18,2,1,0.91,1.05
+18718,DreamHack Winter 2014,2014-11-28 21:15:00,Dignitas,Natus Vincere,Cobblestone,3,16,19,Natus Vincere,9,10,1,4,0.61,1.39
+18716,DreamHack Winter 2014,2014-11-28 17:30:00,LDLC,fnatic,Cache,8,16,24,fnatic,11,12,1,0,0.77,1.18
+18715,DreamHack Winter 2014,2014-11-28 17:30:00,LDLC,fnatic,Dust2,16,10,26,LDLC,19,7,1,2,1.14,0.81
+18714,DreamHack Winter 2014,2014-11-28 14:30:00,Virtus.pro,PENTA,Mirage,16,5,21,Virtus.pro,13,8,0,2,1.32,0.68
+18713,DreamHack Winter 2014,2014-11-28 14:30:00,Virtus.pro,PENTA,Cache,16,9,25,Virtus.pro,13,12,0,2,1.27,0.69
+18712,DreamHack Winter 2014,2014-11-28 11:00:00,HellRaisers,NiP,Inferno,6,16,22,NiP,8,14,1,1,0.69,1.29
+18711,DreamHack Winter 2014,2014-11-28 11:00:00,HellRaisers,NiP,Dust2,5,16,21,NiP,10,11,1,1,0.59,1.29
+18709,DreamHack Winter 2014,2014-11-27 23:45:00,Natus Vincere,FlipSid3,Overpass,19,15,34,Natus Vincere,19,15,3,3,1.11,0.84
+18708,DreamHack Winter 2014,2014-11-27 23:40:00,NiP,ESC,Cache,16,13,29,NiP,15,14,3,2,1.03,0.93
+18707,DreamHack Winter 2014,2014-11-27 22:35:00,myXMG,FlipSid3,Mirage,11,16,27,FlipSid3,18,9,2,5,0.92,1.07
+18706,DreamHack Winter 2014,2014-11-27 22:35:00,ESC,Planetkey,Mirage,16,13,29,ESC,15,14,3,3,1.1,0.9
+18704,DreamHack Winter 2014,2014-11-27 21:00:00,LDLC,NiP,Overpass,16,13,29,LDLC,19,10,1,1,1.1,0.84
+18705,DreamHack Winter 2014,2014-11-27 20:45:00,Virtus.pro,Natus Vincere,Nuke,16,2,18,Virtus.pro,13,5,2,1,1.44,0.55
+18703,DreamHack Winter 2014,2014-11-27 20:15:00,NiP,Planetkey,Overpass,16,2,18,NiP,14,4,1,1,1.58,0.48
+18702,DreamHack Winter 2014,2014-11-27 19:45:00,Natus Vincere,FlipSid3,Mirage,16,8,24,Natus Vincere,15,9,0,1,1.28,0.67
+18699,DreamHack Winter 2014,2014-11-27 19:10:00,LDLC,ESC,Cobblestone,16,4,20,LDLC,11,9,2,0,1.41,0.6
+18701,DreamHack Winter 2014,2014-11-27 18:45:00,Virtus.pro,myXMG,Inferno,16,2,18,Virtus.pro,11,7,2,0,1.69,0.39
+18698,DreamHack Winter 2014,2014-11-27 17:00:00,fnatic,Cloud9,Dust2,16,5,21,fnatic,14,7,1,1,1.39,0.62
+18700,DreamHack Winter 2014,2014-11-27 16:15:00,iBUYPOWER,PENTA,Inferno,13,16,29,PENTA,15,14,2,3,1.02,0.99
+18697,DreamHack Winter 2014,2014-11-27 16:05:00,Bravado,Cloud9,Cache,1,16,17,Cloud9,6,11,0,0,0.4,1.55
+18692,DreamHack Winter 2014,2014-11-27 15:10:00,PENTA,CPH Wolves,Dust2,16,12,28,PENTA,16,12,1,1,1.14,0.8
+18694,DreamHack Winter 2014,2014-11-27 14:40:00,fnatic,HellRaisers,Mirage,14,16,30,HellRaisers,13,17,3,0,0.95,1.05
+18695,DreamHack Winter 2014,2014-11-27 14:00:00,Dignitas,iBUYPOWER,Nuke,16,7,23,Dignitas,13,10,0,0,1.26,0.65
+18696,DreamHack Winter 2014,2014-11-27 13:35:00,Cloud9,HellRaisers,Inferno,5,16,21,HellRaisers,8,13,1,1,0.77,1.25
+18693,DreamHack Winter 2014,2014-11-27 13:15:00,iBUYPOWER,CPH Wolves,Nuke,16,4,20,iBUYPOWER,10,10,3,0,1.32,0.68
+18691,DreamHack Winter 2014,2014-11-27 12:30:00,fnatic,Bravado,Mirage,16,2,18,fnatic,18,0,1,0,1.59,0.44
+18690,DreamHack Winter 2014,2014-11-27 12:10:00,Dignitas,PENTA,Nuke,16,9,25,Dignitas,19,6,1,1,1.27,0.68
+17564,ESL One Cologne 2014,2014-08-17 16:00:00,fnatic,NiP,Inferno,13,16,29,NiP,15,14,1,4,0.96,1.06
+17563,ESL One Cologne 2014,2014-08-17 16:00:00,fnatic,NiP,Cache,16,8,24,fnatic,16,8,0,2,1.24,0.71
+17562,ESL One Cologne 2014,2014-08-17 16:00:00,fnatic,NiP,Cobblestone,11,16,27,NiP,11,16,1,1,0.92,1.05
+17561,ESL One Cologne 2014,2014-08-17 11:55:00,NiP,LDLC,Cobblestone,16,14,30,NiP,15,15,3,1,1.0,0.99
+17560,ESL One Cologne 2014,2014-08-17 11:55:00,NiP,LDLC,Nuke,16,6,22,NiP,15,7,3,2,1.21,0.73
+17559,ESL One Cologne 2014,2014-08-17 11:55:00,NiP,LDLC,Inferno,10,16,26,LDLC,12,14,2,1,0.83,1.1
+17558,ESL One Cologne 2014,2014-08-17 09:20:00,fnatic,Dignitas,Overpass,16,14,30,fnatic,11,19,0,3,1.09,0.9
+17557,ESL One Cologne 2014,2014-08-17 09:20:00,fnatic,Dignitas,Dust2,16,11,27,fnatic,16,11,0,1,1.22,0.8
+17556,ESL One Cologne 2014,2014-08-16 18:30:00,Cloud9,NiP,Cobblestone,14,16,30,NiP,11,19,3,1,0.93,1.04
+17555,ESL One Cologne 2014,2014-08-16 18:30:00,Cloud9,NiP,Dust2,14,16,30,NiP,15,15,1,1,0.9,1.06
+17554,ESL One Cologne 2014,2014-08-16 18:30:00,Cloud9,NiP,Nuke,16,8,24,Cloud9,14,10,2,1,1.14,0.79
+17553,ESL One Cologne 2014,2014-08-16 15:45:00,LDLC,Virtus.pro,Mirage,16,12,28,LDLC,16,12,2,1,1.12,0.84
+17552,ESL One Cologne 2014,2014-08-16 15:45:00,LDLC,Virtus.pro,Dust2,16,14,30,LDLC,18,12,2,1,1.0,0.94
+17551,ESL One Cologne 2014,2014-08-16 13:25:00,Epsilon,Dignitas,Inferno,8,16,24,Dignitas,12,12,1,3,0.86,1.08
+17550,ESL One Cologne 2014,2014-08-16 13:25:00,Epsilon,Dignitas,Dust2,9,16,25,Dignitas,11,14,1,1,0.71,1.25
+17549,ESL One Cologne 2014,2014-08-16 09:25:00,fnatic,Natus Vincere,Nuke,16,14,30,fnatic,18,12,3,5,1.09,0.88
+17548,ESL One Cologne 2014,2014-08-16 09:25:00,fnatic,Natus Vincere,Dust2,7,16,23,Natus Vincere,7,16,3,3,0.73,1.3
+17547,ESL One Cologne 2014,2014-08-16 09:25:00,fnatic,Natus Vincere,Inferno,16,11,27,fnatic,16,11,1,3,1.18,0.81
+17546,ESL One Cologne 2014,2014-08-15 20:30:00,Dignitas,Titan,Nuke,16,1,17,Dignitas,16,1,0,1,1.53,0.38
+17545,ESL One Cologne 2014,2014-08-15 19:00:00,Cloud9,Dignitas,Mirage,16,14,30,Cloud9,15,15,2,2,1.05,0.93
+17544,ESL One Cologne 2014,2014-08-15 17:45:00,Virtus.pro,iBUYPOWER,Cache,16,2,18,Virtus.pro,14,4,1,2,1.53,0.42
+17542,ESL One Cologne 2014,2014-08-15 15:55:00,fnatic,Virtus.pro,Overpass,19,16,35,fnatic,13,22,1,3,1.03,0.93
+17540,ESL One Cologne 2014,2014-08-15 13:45:00,Natus Vincere,CPH Wolves,Dust2,19,17,36,Natus Vincere,20,16,1,2,1.01,0.88
+17539,ESL One Cologne 2014,2014-08-15 12:10:00,LDLC,Natus Vincere,Inferno,16,12,28,LDLC,17,11,3,1,1.08,0.85
+17538,ESL One Cologne 2014,2014-08-15 10:50:00,NiP,HellRaisers,Overpass,16,11,27,NiP,19,8,0,1,1.14,0.84
+17537,ESL One Cologne 2014,2014-08-15 09:30:00,Epsilon,NiP,Cobblestone,16,6,22,Epsilon,12,10,1,0,1.23,0.72
+17536,ESL One Cologne 2014,2014-08-14 20:00:00,Titan,Vox Eminor,Nuke,16,1,17,Titan,13,4,1,0,1.53,0.4
+17533,ESL One Cologne 2014,2014-08-14 18:00:00,Cloud9,Titan,Dust2,22,18,40,Cloud9,26,14,4,5,1.01,0.96
+17532,ESL One Cologne 2014,2014-08-14 17:30:00,Dignitas,Vox Eminor,Dust2,16,9,25,Dignitas,13,12,4,0,1.2,0.89
+17531,ESL One Cologne 2014,2014-08-14 16:20:00,iBUYPOWER,dAT,Cobblestone,16,6,22,iBUYPOWER,13,9,1,1,1.27,0.69
+17530,ESL One Cologne 2014,2014-08-14 15:00:00,fnatic,iBUYPOWER,Cobblestone,16,7,23,fnatic,11,12,2,2,1.32,0.71
+17529,ESL One Cologne 2014,2014-08-14 14:30:00,Virtus.pro,dAT,Overpass,16,7,23,Virtus.pro,15,8,0,0,1.35,0.64
+17528,ESL One Cologne 2014,2014-08-14 13:00:00,CPH Wolves,London Conspiracy,Cache,16,5,21,CPH Wolves,14,7,1,2,1.4,0.57
+17527,ESL One Cologne 2014,2014-08-14 12:00:00,Natus Vincere,CPH Wolves,Inferno,16,6,22,Natus Vincere,11,11,0,1,1.23,0.7
+17526,ESL One Cologne 2014,2014-08-14 11:45:00,LDLC,London Conspiracy,Nuke,16,2,18,LDLC,11,7,0,1,1.57,0.42
+17525,ESL One Cologne 2014,2014-08-14 10:30:00,HellRaisers,Wolves,Mirage,16,4,20,HellRaisers,13,7,0,2,1.5,0.46
+17524,ESL One Cologne 2014,2014-08-14 09:20:00,Epsilon,HellRaisers,Inferno,16,1,17,Epsilon,9,8,1,0,1.71,0.34
+17523,ESL One Cologne 2014,2014-08-14 09:00:00,NiP,Wolves,Dust2,16,7,23,NiP,12,11,0,1,1.28,0.75
+16520,EMS One Katowice 2014,2014-03-16 13:00:00,NiP,Virtus.pro,Inferno,10,16,26,Virtus.pro,6,20,0,1,0.67,1.34
+16519,EMS One Katowice 2014,2014-03-16 13:00:00,NiP,Virtus.pro,Mirage,9,16,25,Virtus.pro,7,18,1,1,0.77,1.22
+16518,EMS One Katowice 2014,2014-03-15 19:00:00,Virtus.pro,LGB,Train,16,7,23,Virtus.pro,12,11,4,0,1.17,0.81
+16515,EMS One Katowice 2014,2014-03-15 19:00:00,Virtus.pro,LGB,Mirage,17,19,36,LGB,19,17,2,3,1.02,1.0
+16514,EMS One Katowice 2014,2014-03-15 19:00:00,Virtus.pro,LGB,Inferno,16,8,24,Virtus.pro,12,12,4,0,1.24,0.74
+16513,EMS One Katowice 2014,2014-03-15 17:05:00,NiP,Dignitas,Nuke,16,5,21,NiP,14,7,1,3,1.28,0.66
+16512,EMS One Katowice 2014,2014-03-15 17:05:00,NiP,Dignitas,Inferno,16,6,22,NiP,12,10,0,0,1.31,0.71
+16511,EMS One Katowice 2014,2014-03-15 13:00:00,LGB,fnatic,Train,16,14,30,LGB,15,15,0,3,0.96,0.99
+16510,EMS One Katowice 2014,2014-03-15 13:00:00,LGB,fnatic,Mirage,16,12,28,LGB,20,8,0,1,1.12,0.84
+16508,EMS One Katowice 2014,2014-03-15 13:00:00,LGB,fnatic,Inferno,11,16,27,fnatic,15,12,1,1,0.87,1.16
+16507,EMS One Katowice 2014,2014-03-14 18:55:00,NiP,compLexity,Train,16,11,27,NiP,17,10,4,2,1.09,0.9
+16506,EMS One Katowice 2014,2014-03-14 18:55:00,NiP,compLexity,Nuke,16,2,18,NiP,11,7,2,0,1.41,0.56
+16505,EMS One Katowice 2014,2014-03-14 18:55:00,NiP,compLexity,Dust2,12,16,28,compLexity,14,14,1,4,1.03,0.95
+16504,EMS One Katowice 2014,2014-03-14 16:00:00,Virtus.pro,LDLC,Inferno,16,8,24,Virtus.pro,17,7,2,2,1.18,0.81
+16503,EMS One Katowice 2014,2014-03-14 16:00:00,Virtus.pro,LDLC,Mirage,16,3,19,Virtus.pro,10,9,6,3,1.36,0.66
+16502,EMS One Katowice 2014,2014-03-14 13:00:00,Dignitas,HellRaisers,Mirage,16,11,27,Dignitas,15,12,3,4,1.25,0.8
+16501,EMS One Katowice 2014,2014-03-14 13:00:00,Dignitas,HellRaisers,Dust2,16,7,23,Dignitas,10,13,3,0,1.22,0.76
+16499,EMS One Katowice 2014,2014-03-14 00:40:00,compLexity,Clan-Mystik,Nuke,16,12,28,compLexity,16,12,1,0,1.05,0.9
+16497,EMS One Katowice 2014,2014-03-14 00:40:00,fnatic,Reason,Inferno,16,6,22,fnatic,12,10,3,0,1.25,0.76
+16498,EMS One Katowice 2014,2014-03-13 23:40:00,Dignitas,Reason,Inferno,16,8,24,Dignitas,10,14,3,1,1.23,0.84
+16496,EMS One Katowice 2014,2014-03-13 23:40:00,fnatic,iBUYPOWER,Inferno,16,13,29,fnatic,13,16,1,2,0.98,0.99
+16500,EMS One Katowice 2014,2014-03-13 23:30:00,Clan-Mystik,Natus Vincere,Dust2,16,13,29,Clan-Mystik,11,18,3,0,0.91,1.03
+16495,EMS One Katowice 2014,2014-03-13 23:30:00,LGB,compLexity,Dust2,16,11,27,LGB,16,11,2,2,1.23,0.73
+16494,EMS One Katowice 2014,2014-03-13 22:15:00,compLexity,Clan-Mystik,Inferno,16,6,22,compLexity,13,9,1,0,1.09,0.79
+16493,EMS One Katowice 2014,2014-03-13 22:15:00,Dignitas,iBUYPOWER,Nuke,16,8,24,Dignitas,16,8,3,1,1.22,0.73
+16492,EMS One Katowice 2014,2014-03-13 22:15:00,Reason,fnatic,Inferno,16,12,28,Reason,13,15,2,0,1.1,0.9
+16491,EMS One Katowice 2014,2014-03-13 22:15:00,LGB,Natus Vincere,Inferno,16,8,24,LGB,16,8,2,0,1.12,0.86
+16490,EMS One Katowice 2014,2014-03-13 18:50:00,LDLC,3DMAX,Inferno,16,13,29,LDLC,17,12,2,2,1.08,0.98
+16489,EMS One Katowice 2014,2014-03-13 18:00:00,HellRaisers,Titan,Inferno,16,14,30,HellRaisers,13,17,3,2,1.0,0.96
+16488,EMS One Katowice 2014,2014-03-13 17:20:00,3DMAX,Vox Eminor,Inferno,16,7,23,3DMAX,13,10,2,1,1.19,0.76
+16487,EMS One Katowice 2014,2014-03-13 17:00:00,HellRaisers,mousesports,Dust2,16,9,25,HellRaisers,17,8,1,3,1.18,0.79
+16486,EMS One Katowice 2014,2014-03-13 16:10:00,NiP,LDLC,Inferno,16,7,23,NiP,17,6,0,3,1.4,0.65
+16485,EMS One Katowice 2014,2014-03-13 15:45:00,Virtus.pro,Titan,Mirage,16,7,23,Virtus.pro,16,7,2,1,1.38,0.72
+16484,EMS One Katowice 2014,2014-03-13 15:00:00,LDLC,Vox Eminor,Inferno,16,13,29,LDLC,14,15,2,3,1.11,0.92
+16481,EMS One Katowice 2014,2014-03-13 14:00:00,Virtus.pro,HellRaisers,Mirage,19,16,35,Virtus.pro,14,21,6,0,0.95,1.04
+16483,EMS One Katowice 2014,2014-03-13 13:00:00,Titan,mousesports,Dust2,16,5,21,Titan,15,6,1,2,1.31,0.61
+16480,EMS One Katowice 2014,2014-03-13 13:00:00,NiP,3DMAX,Dust2,16,5,21,NiP,11,10,2,0,1.34,0.6
+15856,DreamHack Winter 2013,2013-11-30 22:30:00,NiP,fnatic,Train,2,16,18,fnatic,8,10,1,2,0.55,1.41
+15855,DreamHack Winter 2013,2013-11-30 22:30:00,NiP,fnatic,Inferno,16,6,22,NiP,17,5,1,2,1.38,0.6
+15854,DreamHack Winter 2013,2013-11-30 22:30:00,NiP,fnatic,Dust2,14,16,30,fnatic,19,11,1,1,1.0,0.95
+15853,DreamHack Winter 2013,2013-11-30 18:10:00,fnatic,compLexity,Mirage,16,7,23,fnatic,12,11,0,2,1.26,0.69
+15852,DreamHack Winter 2013,2013-11-30 18:10:00,fnatic,compLexity,Inferno,16,7,23,fnatic,13,9,0,0,1.12,0.84
+15851,DreamHack Winter 2013,2013-11-30 14:30:00,NiP,VeryGames,Nuke,16,5,21,NiP,14,7,2,0,1.32,0.61
+15850,DreamHack Winter 2013,2013-11-30 14:30:00,NiP,VeryGames,Inferno,6,16,22,VeryGames,11,11,0,2,0.76,1.24
+15849,DreamHack Winter 2013,2013-11-30 14:30:00,NiP,VeryGames,Dust2,16,13,29,NiP,15,14,1,0,1.06,0.9
+15846,DreamHack Winter 2013,2013-11-29 20:00:00,Astana Dragons,compLexity,Inferno,12,16,28,compLexity,16,12,2,4,0.96,1.05
+15845,DreamHack Winter 2013,2013-11-29 20:00:00,Astana Dragons,compLexity,Dust2,7,16,23,compLexity,8,15,0,2,0.7,1.27
+15844,DreamHack Winter 2013,2013-11-29 20:00:00,Astana Dragons,compLexity,Nuke,16,9,25,Astana Dragons,12,13,2,0,1.09,0.88
+15843,DreamHack Winter 2013,2013-11-29 20:00:00,CPH Wolves,VeryGames,Mirage,12,16,28,VeryGames,11,17,2,1,0.93,1.01
+15842,DreamHack Winter 2013,2013-11-29 20:00:00,CPH Wolves,VeryGames,Inferno,16,5,21,CPH Wolves,12,9,3,1,1.22,0.72
+15841,DreamHack Winter 2013,2013-11-29 20:00:00,CPH Wolves,VeryGames,Dust2,6,16,22,VeryGames,5,17,1,2,0.62,1.39
+15839,DreamHack Winter 2013,2013-11-29 17:51:00,Astana Dragons,Reason,Nuke,16,13,29,Astana Dragons,13,16,2,1,1.06,0.9
+15838,DreamHack Winter 2013,2013-11-29 17:45:00,Reason,SK,Inferno,16,3,19,Reason,14,5,3,0,1.33,0.61
+15840,DreamHack Winter 2013,2013-11-29 17:00:00,CPH Wolves,Astana Dragons,Nuke,16,7,23,CPH Wolves,17,6,1,1,1.32,0.73
+15837,DreamHack Winter 2013,2013-11-29 16:18:00,CPH Wolves,SK,Inferno,16,11,27,CPH Wolves,13,14,2,0,1.16,0.8
+15836,DreamHack Winter 2013,2013-11-29 15:15:00,Astana Dragons,Reason,Inferno,16,11,27,Astana Dragons,15,12,3,1,1.23,0.78
+15835,DreamHack Winter 2013,2013-11-29 13:00:00,VeryGames,n!faculty,Dust2,16,9,25,VeryGames,14,10,3,0,1.06,0.91
+15834,DreamHack Winter 2013,2013-11-29 12:45:00,compLexity,VeryGames,Inferno,16,14,30,compLexity,18,12,2,3,1.03,0.94
+15833,DreamHack Winter 2013,2013-11-29 11:30:00,n!faculty,Xapso,Train,16,5,21,n!faculty,15,6,2,0,1.19,0.74
+15832,DreamHack Winter 2013,2013-11-29 11:04:00,VeryGames,Xapso,Inferno,16,8,24,VeryGames,14,10,1,1,1.16,0.79
+15831,DreamHack Winter 2013,2013-11-29 10:56:00,compLexity,n!faculty,Inferno,16,5,21,compLexity,13,8,1,0,1.36,0.56
+15830,DreamHack Winter 2013,2013-11-28 22:45:00,LGB,NiP,Inferno,7,16,23,NiP,10,13,0,4,0.75,1.23
+15829,DreamHack Winter 2013,2013-11-28 22:45:00,LGB,NiP,Train,9,16,25,NiP,10,15,0,2,0.79,1.2
+15828,DreamHack Winter 2013,2013-11-28 22:45:00,LGB,NiP,Dust2,16,14,30,LGB,18,12,1,2,1.04,0.89
+15827,DreamHack Winter 2013,2013-11-28 22:30:00,fnatic,Recursive,Train,16,10,26,fnatic,18,8,2,2,1.16,0.82
+15826,DreamHack Winter 2013,2013-11-28 22:30:00,fnatic,Recursive,Dust2,13,16,29,Recursive,17,12,2,1,0.93,1.05
+15825,DreamHack Winter 2013,2013-11-28 22:30:00,fnatic,Recursive,Inferno,16,9,25,fnatic,14,11,2,4,1.24,0.8
+15824,DreamHack Winter 2013,2013-11-28 20:00:00,Recursive,UniversalSoldiers,Inferno,16,13,29,Recursive,14,15,1,1,1.09,0.95
+15823,DreamHack Winter 2013,2013-11-28 18:15:00,NiP,UniversalSoldiers,Inferno,16,4,20,NiP,8,12,1,3,1.28,0.65
+15822,DreamHack Winter 2013,2013-11-28 16:45:00,Recursive,iBUYPOWER,Inferno,16,8,24,Recursive,12,12,3,0,1.12,0.83
+15821,DreamHack Winter 2013,2013-11-28 15:45:00,UniversalSoldiers,iBUYPOWER,Dust2,16,9,25,UniversalSoldiers,12,13,2,2,1.24,0.77
+15820,DreamHack Winter 2013,2013-11-28 15:30:00,NiP,Recursive,Inferno,16,13,29,NiP,15,14,0,1,0.99,0.95
+15819,DreamHack Winter 2013,2013-11-28 14:20:00,LGB,Clan-Mystik,Inferno,16,2,18,LGB,13,5,0,0,1.61,0.44
+15818,DreamHack Winter 2013,2013-11-28 13:19:00,fnatic,Clan-Mystik,Inferno,16,6,22,fnatic,10,12,2,0,1.15,0.83
+15817,DreamHack Winter 2013,2013-11-28 12:15:00,LGB,Natus Vincere,Mirage,16,13,29,LGB,16,13,0,4,1.16,0.78
+15816,DreamHack Winter 2013,2013-11-28 11:00:00,fnatic,Natus Vincere,Mirage,16,9,25,fnatic,17,8,3,4,1.23,0.77
+15815,DreamHack Winter 2013,2013-11-28 10:00:00,Clan-Mystik,LGB,Dust2,16,14,30,Clan-Mystik,18,12,2,1,0.97,0.96
